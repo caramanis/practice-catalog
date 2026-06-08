@@ -1,0 +1,20 @@
+[
+    {
+      "id": "zeimbekiko",
+      "title": "Zeimbekiko Rhythms and Songs",
+      "description": "Three different zeimbekiko rhythms, and songs that illustrate that rhythm.",
+      "tags": ["rembetiko", "9/8"],
+      "stepCount": 8,
+      "zipUrl": "/downloads/v1/zeimbekiko-.-pub-package.zip",
+      "thumbnailEmoji": "🪗"
+    },
+    {
+      "id": "chenier",
+      "title": "Three Clifton Chenier pieces",
+      "description": "Listen and learn 3 classic Chenier pieces for accordion.",
+      "tags": ["blues", "zydeco", "louisiana"],
+      "stepCount": 5,
+      "zipUrl": "/downloads/v1/Chenier-package.zip",
+      "thumbnailEmoji": "🪗"
+    }
+  ]
