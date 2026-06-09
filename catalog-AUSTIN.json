@@ -1,5 +1,14 @@
 [
     {
+      "id": "midi-test",
+      "title": "midi test",
+      "description": "Testing how playback on midi files sounds.",
+      "tags": ["midi"],
+      "stepCount": 3,
+      "zipUrl": "/downloads/v1/midi-test-package.zip",
+      "thumbnailEmoji": ""
+    },
+    {
       "id": "zeimbekiko",
       "title": "Zeimbekiko Rhythms and Songs",
       "description": "Three different zeimbekiko rhythms, and songs that illustrate that rhythm.",
