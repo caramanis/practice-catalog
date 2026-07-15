@@ -1,50 +1,61 @@
 [
   {
+    "title" : "Zeimbekiko Rhythms and Songs",
     "id" : "zeimbekiko",
-    "thumbnailEmoji" : "🪗",
+    "description" : "Three different zeimbekiko rhythms, and songs that illustrate that rhythm.",
     "tags" : [
       "rembetiko",
       "9/8"
     ],
-    "description" : "Three different zeimbekiko rhythms, and songs that illustrate that rhythm.",
-    "stepCount" : 8,
     "zipUrl" : "/downloads/v1/zeimbekiko-.-pub-package.zip",
-    "title" : "Zeimbekiko Rhythms and Songs"
+    "thumbnailEmoji" : "🪗",
+    "stepCount" : 8
   },
   {
+    "title" : "Two Arabic pieces: Longa Nahawand",
     "id" : "longa-nahawand",
-    "thumbnailEmoji" : "🪕,🪗",
+    "description" : "A practice plan to learn two versions of this piece. Note: large download, contains videos!",
     "tags" : [
       "arabic",
       "greek"
     ],
-    "description" : "A practice plan to learn two versions of this piece. Note: large download, contains videos!",
-    "stepCount" : 7,
     "zipUrl" : "/downloads/v1/Longa-package.zip",
-    "title" : "Two Arabic pieces: Longa Nahawand"
+    "thumbnailEmoji" : "🪕,🪗",
+    "stepCount" : 7
   },
   {
+    "title" : "Three Clifton Chenier pieces",
     "id" : "chenier",
-    "thumbnailEmoji" : "🪗",
+    "description" : "Listen and learn 3 classic Chenier pieces for accordion.",
     "tags" : [
       "blues",
       "zydeco",
       "louisiana"
     ],
-    "description" : "Listen and learn 3 classic Chenier pieces for accordion.",
-    "stepCount" : 5,
     "zipUrl" : "/downloads/v1/Chenier-package.zip",
-    "title" : "Three Clifton Chenier pieces"
+    "thumbnailEmoji" : "🪗",
+    "stepCount" : 5
   },
   {
+    "title" : "AYO Violin Audition Material",
     "id" : "ayoviolin",
-    "thumbnailEmoji" : "🎻",
+    "description" : "Practice for recording the AYO audition.",
     "tags" : [
       "violin"
     ],
-    "description" : "Practice for recording the AYO audition.",
-    "stepCount" : 6,
     "zipUrl" : "/downloads/v1/violin-ayo-audition-package.zip",
-    "title" : "AYO Violin Audition Material"
+    "thumbnailEmoji" : "🎻",
+    "stepCount" : 6
+  },
+  {
+    "title" : "AYO Cello Audition Practice",
+    "id" : "ayo-cello-audition-practice",
+    "description" : "",
+    "tags" : [
+
+    ],
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/ayo-cello-audition-practice.zip",
+    "thumbnailEmoji" : "🎵 🎻",
+    "stepCount" : 6
   }
 ]
