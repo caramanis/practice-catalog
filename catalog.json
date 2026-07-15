@@ -1,61 +1,50 @@
 [
   {
     "id" : "zeimbekiko",
-    "zipUrl" : "/downloads/v1/zeimbekiko-.-pub-package.zip",
-    "title" : "Zeimbekiko Rhythms and Songs",
-    "description" : "Three different zeimbekiko rhythms, and songs that illustrate that rhythm.",
     "thumbnailEmoji" : "🪗",
     "tags" : [
       "rembetiko",
       "9/8"
     ],
-    "stepCount" : 8
+    "description" : "Three different zeimbekiko rhythms, and songs that illustrate that rhythm.",
+    "stepCount" : 8,
+    "zipUrl" : "/downloads/v1/zeimbekiko-.-pub-package.zip",
+    "title" : "Zeimbekiko Rhythms and Songs"
   },
   {
     "id" : "longa-nahawand",
-    "zipUrl" : "/downloads/v1/Longa-package.zip",
-    "title" : "Two Arabic pieces: Longa Nahawand",
-    "description" : "A practice plan to learn two versions of this piece. Note: large download, contains videos!",
     "thumbnailEmoji" : "🪕,🪗",
     "tags" : [
       "arabic",
       "greek"
     ],
-    "stepCount" : 7
+    "description" : "A practice plan to learn two versions of this piece. Note: large download, contains videos!",
+    "stepCount" : 7,
+    "zipUrl" : "/downloads/v1/Longa-package.zip",
+    "title" : "Two Arabic pieces: Longa Nahawand"
   },
   {
     "id" : "chenier",
-    "zipUrl" : "/downloads/v1/Chenier-package.zip",
-    "title" : "Three Clifton Chenier pieces",
-    "description" : "Listen and learn 3 classic Chenier pieces for accordion.",
     "thumbnailEmoji" : "🪗",
     "tags" : [
       "blues",
       "zydeco",
       "louisiana"
     ],
-    "stepCount" : 5
+    "description" : "Listen and learn 3 classic Chenier pieces for accordion.",
+    "stepCount" : 5,
+    "zipUrl" : "/downloads/v1/Chenier-package.zip",
+    "title" : "Three Clifton Chenier pieces"
   },
   {
     "id" : "ayoviolin",
-    "zipUrl" : "/downloads/v1/violin-ayo-audition-package.zip",
-    "title" : "AYO Violin Audition Material",
-    "description" : "Practice for recording the AYO audition.",
     "thumbnailEmoji" : "🎻",
     "tags" : [
       "violin"
     ],
-    "stepCount" : 6
-  },
-  {
-    "id" : "ayocello",
-    "zipUrl" : "/downloads/v1/cello-ayo-audition-package.zip",
-    "title" : "AYO Cello Audition Material",
     "description" : "Practice for recording the AYO audition.",
-    "thumbnailEmoji" : "🎻",
-    "tags" : [
-      "cello"
-    ],
-    "stepCount" : 6
+    "stepCount" : 6,
+    "zipUrl" : "/downloads/v1/violin-ayo-audition-package.zip",
+    "title" : "AYO Violin Audition Material"
   }
 ]
