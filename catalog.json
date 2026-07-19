@@ -1,59 +1,60 @@
 [
   {
-    "title": "Zeimbekiko Rhythms and Songs",
-    "id": "zeimbekiko",
-    "description": "Three different zeimbekiko rhythms, and songs that illustrate that rhythm.",
-    "tags": [
+    "title" : "Zeimbekiko Rhythms and Songs",
+    "description" : "Three different zeimbekiko rhythms, and songs that illustrate that rhythm.",
+    "stepCount" : 8,
+    "thumbnailEmoji" : "🪗",
+    "id" : "zeimbekiko",
+    "zipUrl" : "/downloads/v1/zeimbekiko-.-pub-package.zip",
+    "tags" : [
       "rembetiko",
       "9/8"
-    ],
-    "zipUrl": "/downloads/v1/zeimbekiko-.-pub-package.zip",
-    "thumbnailEmoji": "🪗",
-    "stepCount": 8
+    ]
   },
   {
-    "title": "Two Arabic pieces: Longa Nahawand",
-    "id": "longa-nahawand",
-    "description": "A practice plan to learn two versions of this piece. Note: large download, contains videos!",
-    "tags": [
-      "arabic",
-      "greek"
-    ],
-    "zipUrl": "/downloads/v1/Longa-package.zip",
-    "thumbnailEmoji": "🪕,🪗",
-    "stepCount": 7
-  },
-  {
-    "title": "Three Clifton Chenier pieces",
-    "id": "chenier",
-    "description": "Listen and learn 3 classic Chenier pieces for accordion.",
-    "tags": [
+    "title" : "Three Clifton Chenier pieces",
+    "description" : "Listen and learn 3 classic Chenier pieces for accordion.",
+    "stepCount" : 5,
+    "thumbnailEmoji" : "🪗",
+    "id" : "chenier",
+    "zipUrl" : "/downloads/v1/Chenier-package.zip",
+    "tags" : [
       "blues",
       "zydeco",
       "louisiana"
-    ],
-    "zipUrl": "/downloads/v1/Chenier-package.zip",
-    "thumbnailEmoji": "🪗",
-    "stepCount": 5
+    ]
   },
   {
-    "title": "AYO Violin Audition Material",
-    "id": "ayoviolin",
-    "description": "Practice for recording the AYO audition.",
-    "tags": [
+    "title" : "AYO Violin Audition Material",
+    "description" : "Practice for recording the AYO audition.",
+    "stepCount" : 6,
+    "thumbnailEmoji" : "🎻",
+    "id" : "ayoviolin",
+    "zipUrl" : "/downloads/v1/violin-ayo-audition-package.zip",
+    "tags" : [
       "violin"
-    ],
-    "zipUrl": "/downloads/v1/violin-ayo-audition-package.zip",
-    "thumbnailEmoji": "🎻",
-    "stepCount": 6
+    ]
   },
   {
-    "title": "AYO Cello Audition Practice",
-    "id": "ayo-cello-audition-practice",
-    "description": "",
-    "tags": [],
-    "zipUrl": "/downloads/packages/ayo-cello-audition-practice.zip",
-    "thumbnailEmoji": "🎵 🎻",
-    "stepCount": 6
+    "title" : "AYO Cello Audition Practice",
+    "description" : "",
+    "stepCount" : 6,
+    "thumbnailEmoji" : "🎵 🎻",
+    "id" : "ayo-cello-audition-practice",
+    "zipUrl" : "/downloads/packages/ayo-cello-audition-practice.zip",
+    "tags" : [
+
+    ]
+  },
+  {
+    "title" : "Longa Nahawand",
+    "description" : "A practice plan to learn this piece. Note: large download, contains videos!",
+    "stepCount" : 7,
+    "thumbnailEmoji" : "🎵, 🪕,🪗",
+    "id" : "longa-nahawand",
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/longa-nahawand.zip",
+    "tags" : [
+      "Iraklis"
+    ]
   }
 ]
