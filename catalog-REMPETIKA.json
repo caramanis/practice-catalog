@@ -1,24 +1,24 @@
 [
   {
     "description" : "Πάρε εσύ το δρόμο σου, Η Νυχτερίδα, Η δουλειά κάνει τους άνδρες",
-    "id" : "pare-esy-nychterida-doyleia",
+    "stepCount" : 7,
+    "title" : "Πάρε εσύ - Νυχτερίδα - Δουλειά",
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/pare-esy-nychterida-doyleia.zip",
     "tags" : [
       "rempetika"
     ],
     "thumbnailEmoji" : "🎵🔒",
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/pare-esy-nychterida-doyleia.zip",
-    "stepCount" : 7,
-    "title" : "Πάρε εσύ - Νυχτερίδα - Δουλειά"
+    "id" : "pare-esy-nychterida-doyleia"
   },
   {
+    "thumbnailEmoji" : "🎵🔒",
+    "stepCount" : 8,
+    "title" : "Μάγισσες - Ψίχουλα - Τι Σήμερα - Τα Όμορφα",
     "tags" : [
       "rempetika"
     ],
-    "stepCount" : 8,
-    "description" : "Μάγισσες φέρτε βότανα, Λίγα ψίχουλα αγάπης, Τα όμορφα τα γάλανά σου μάτια",
     "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/magisses-psichoyla-ti-simera-ta-omorfa.zip",
-    "id" : "magisses-psichoyla-ti-simera-ta-omorfa",
-    "title" : "Μάγισσες - Ψίχουλα - Τι Σήμερα - Τα Όμορφα",
-    "thumbnailEmoji" : "🎵🔒"
+    "description" : "Μάγισσες φέρτε βότανα, Λίγα ψίχουλα αγάπης, Τι σήμερα τι αύριο τι τώρα, Τα όμορφα τα γάλανά σου μάτια",
+    "id" : "magisses-psichoyla-ti-simera-ta-omorfa"
   }
 ]
