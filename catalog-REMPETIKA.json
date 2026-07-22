@@ -3,7 +3,7 @@
     "description" : "Πάρε εσύ το δρόμο σου, Η Νυχτερίδα, Η δουλειά κάνει τους άνδρες",
     "stepCount" : 7,
     "title" : "Πάρε εσύ - Νυχτερίδα - Δουλειά",
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/pare-esy-nychterida-doyleia.zip",
+    "zipUrl" : "/downloads/packages/pare-esy-nychterida-doyleia.zip",
     "tags" : [
       "rempetika"
     ],
@@ -17,7 +17,7 @@
     "tags" : [
       "rempetika"
     ],
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/magisses-psichoyla-ti-simera-ta-omorfa.zip",
+    "zipUrl" : "/downloads/packages/magisses-psichoyla-ti-simera-ta-omorfa.zip",
     "description" : "Μάγισσες φέρτε βότανα, Λίγα ψίχουλα αγάπης, Τι σήμερα τι αύριο τι τώρα, Τα όμορφα τα γάλανά σου μάτια",
     "id" : "magisses-psichoyla-ti-simera-ta-omorfa"
   }
