@@ -1,35 +1,35 @@
 [
   {
-    "zipUrl" : "/downloads/packages/pare-esy-nychterida-doyleia.zip",
-    "stepCount" : 7,
-    "title" : "Πάρε εσύ - Νυχτερίδα - Δουλειά",
-    "thumbnailEmoji" : "🎵🔒",
-    "id" : "pare-esy-nychterida-doyleia",
-    "tags" : [
-      "rempetika"
-    ],
-    "description" : "Πάρε εσύ το δρόμο σου, Η Νυχτερίδα, Η δουλειά κάνει τους άνδρες"
-  },
-  {
     "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/akrogialies-argosvineis.zip",
-    "stepCount" : 4,
-    "title" : "Ακρογιαλιές - Αργοσβήνεις",
+    "description" : "Ακρογιαλιές Δειλινά, Αργοσβήνεις Μόνη",
     "thumbnailEmoji" : "🎵🔒",
-    "id" : "akrogialies-argosvineis",
+    "stepCount" : 4,
     "tags" : [
 
     ],
-    "description" : "Ακρογιαλιές Δειλινά, Αργοσβήνεις Μόνη"
+    "title" : "Ακρογιαλιές - Αργοσβήνεις",
+    "id" : "akrogialies-argosvineis"
   },
   {
     "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/magisses-psichoyla-ti-simera-ta-omorfa.zip",
-    "stepCount" : 8,
-    "title" : "Μάγισσες - Ψίχουλα - Τι Σήμερα - Τα Όμορφα",
+    "description" : "Μάγισσες φέρτε βότανα, Λίγα ψίχουλα αγάπης, Τι σήμερα τι αύριο",
     "thumbnailEmoji" : "🎵🔒",
-    "id" : "magisses-psichoyla-ti-simera-ta-omorfa",
+    "stepCount" : 8,
     "tags" : [
       "rempetika"
     ],
-    "description" : "Μάγισσες φέρτε βότανα, Λίγα ψίχουλα αγάπης, Τι σήμερα τι αύριο"
+    "title" : "Μάγισσες - Ψίχουλα - Τι Σήμερα - Τα Όμορφα",
+    "id" : "magisses-psichoyla-ti-simera-ta-omorfa"
+  },
+  {
+    "id" : "pare-esy-nychterida-doyleia",
+    "title" : "Πάρε εσύ - Νυχτερίδα - Δουλειά",
+    "tags" : [
+      "rempetika"
+    ],
+    "stepCount" : 7,
+    "description" : "Πάρε εσύ το δρόμο σου, Νυχτερίδα, Η δουλειά κάνει τους άνδρες",
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/pare-esy-nychterida-doyleia.zip",
+    "thumbnailEmoji" : "🎵🔒"
   }
 ]
