@@ -1,13 +1,24 @@
 [
   {
-    "thumbnailEmoji" : "🎵🔒",
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/altalena.zip",
-    "stepCount" : 4,
-    "title" : "Altalena",
-    "description" : "",
+    "id" : "altalena",
     "tags" : [
 
     ],
-    "id" : "altalena"
+    "stepCount" : 4,
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/altalena.zip",
+    "thumbnailEmoji" : "🎵🔒",
+    "title" : "Altalena",
+    "description" : ""
+  },
+  {
+    "id" : "valentina-akrogialies-marazi-liga-psichoyla",
+    "tags" : [
+      "Nefeli"
+    ],
+    "stepCount" : 5,
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/valentina-akrogialies-marazi-liga-psichoyla.zip",
+    "thumbnailEmoji" : "🎵🔒",
+    "title" : "Βαλεντίνα Ακρογιαλιές Μαράζι Λίγα ψίχουλα",
+    "description" : "Βαλεντίνα, Ακρογιαλιές Δειλινά, Το Δικό σου το μαράζι, Λίγα ψίχουλα αγάπης"
   }
 ]
