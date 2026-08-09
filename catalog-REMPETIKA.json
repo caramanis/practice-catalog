@@ -1,35 +1,46 @@
 [
   {
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/akrogialies-argosvineis.zip",
-    "description" : "Ακρογιαλιές Δειλινά, Αργοσβήνεις Μόνη",
     "thumbnailEmoji" : "🎵🔒",
+    "id" : "akrogialies-argosvineis",
+    "title" : "Ακρογιαλιές - Αργοσβήνεις",
+    "description" : "Ακρογιαλιές Δειλινά, Αργοσβήνεις Μόνη",
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/akrogialies-argosvineis.zip",
     "stepCount" : 4,
     "tags" : [
 
-    ],
-    "title" : "Ακρογιαλιές - Αργοσβήνεις",
-    "id" : "akrogialies-argosvineis"
+    ]
   },
   {
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/magisses-psichoyla-ti-simera-ta-omorfa.zip",
     "description" : "Μάγισσες φέρτε βότανα, Λίγα ψίχουλα αγάπης, Τι σήμερα τι αύριο",
     "thumbnailEmoji" : "🎵🔒",
-    "stepCount" : 8,
+    "id" : "magisses-psichoyla-ti-simera-ta-omorfa",
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/magisses-psichoyla-ti-simera-ta-omorfa.zip",
+    "title" : "Μάγισσες - Ψίχουλα - Τι Σήμερα - Τα Όμορφα",
     "tags" : [
       "rempetika"
     ],
-    "title" : "Μάγισσες - Ψίχουλα - Τι Σήμερα - Τα Όμορφα",
-    "id" : "magisses-psichoyla-ti-simera-ta-omorfa"
+    "stepCount" : 8
   },
   {
+    "description" : "Πάρε εσύ το δρόμο σου, Νυχτερίδα, Η δουλειά κάνει τους άνδρες",
+    "thumbnailEmoji" : "🎵🔒",
     "id" : "pare-esy-nychterida-doyleia",
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/pare-esy-nychterida-doyleia.zip",
     "title" : "Πάρε εσύ - Νυχτερίδα - Δουλειά",
     "tags" : [
       "rempetika"
     ],
-    "stepCount" : 7,
-    "description" : "Πάρε εσύ το δρόμο σου, Νυχτερίδα, Η δουλειά κάνει τους άνδρες",
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/pare-esy-nychterida-doyleia.zip",
-    "thumbnailEmoji" : "🎵🔒"
+    "stepCount" : 7
+  },
+  {
+    "description" : "Παραμύθι με λυπημένο τέλος, Μιλώ για σένα",
+    "thumbnailEmoji" : "🎵🔒",
+    "id" : "paramythi-milo-gia-sena",
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/paramythi-milo-gia-sena.zip",
+    "title" : "Παραμύθι, Μιλώ για Σένα",
+    "tags" : [
+
+    ],
+    "stepCount" : 4
   }
 ]
