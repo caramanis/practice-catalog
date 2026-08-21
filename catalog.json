@@ -43,16 +43,5 @@
     "id": "cello-ayo-audition",
     "stepCount": 6,
     "thumbnailEmoji": "🎵"
-  },
-  {
-    "tags": [
-      "Nefeli"
-    ],
-    "description": "Practice for recording the AYO audition for Violin. Excerpts 1-3 from list B.",
-    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/violin-ayo-audition.zip",
-    "title": "Violin AYO Audition",
-    "id": "violin-ayo-audition",
-    "stepCount": 6,
-    "thumbnailEmoji": "🎵🎻"
   }
 ]
