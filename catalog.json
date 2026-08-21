@@ -1,82 +1,67 @@
 [
   {
-    "tags" : [
+    "tags": [
       "rembetiko",
       "9/8"
     ],
-    "description" : "Three different zeimbekiko rhythms, and songs that illustrate that rhythm.",
-    "zipUrl" : "/downloads/v1/zeimbekiko-.-pub-package.zip",
-    "title" : "Zeimbekiko Rhythms and Songs",
-    "id" : "zeimbekiko",
-    "stepCount" : 8,
-    "thumbnailEmoji" : "🪗"
+    "description": "Three different zeimbekiko rhythms, and songs that illustrate that rhythm.",
+    "zipUrl": "/downloads/v1/zeimbekiko-.-pub-package.zip",
+    "title": "Zeimbekiko Rhythms and Songs",
+    "id": "zeimbekiko",
+    "stepCount": 8,
+    "thumbnailEmoji": "🪗"
   },
   {
-    "tags" : [
+    "tags": [
       "blues",
       "zydeco",
       "louisiana"
     ],
-    "description" : "Listen and learn 3 classic Chenier pieces for accordion.",
-    "zipUrl" : "/downloads/v1/Chenier-package.zip",
-    "title" : "Three Clifton Chenier pieces",
-    "id" : "chenier",
-    "stepCount" : 5,
-    "thumbnailEmoji" : "🪗"
+    "description": "Listen and learn 3 classic Chenier pieces for accordion.",
+    "zipUrl": "/downloads/v1/Chenier-package.zip",
+    "title": "Three Clifton Chenier pieces",
+    "id": "chenier",
+    "stepCount": 5,
+    "thumbnailEmoji": "🪗"
   },
   {
-    "tags" : [
-      "violin"
-    ],
-    "description" : "Practice for recording the AYO audition.",
-    "zipUrl" : "/downloads/v1/violin-ayo-audition-package.zip",
-    "title" : "AYO Violin Audition Material",
-    "id" : "ayoviolin",
-    "stepCount" : 6,
-    "thumbnailEmoji" : "🎻"
+    "tags": [],
+    "description": "",
+    "zipUrl": "/downloads/packages/ayo-cello-audition-practice.zip",
+    "title": "AYO Cello Audition Practice",
+    "id": "ayo-cello-audition-practice",
+    "stepCount": 6,
+    "thumbnailEmoji": "🎵 🎻"
   },
   {
-    "tags" : [
-
-    ],
-    "description" : "",
-    "zipUrl" : "/downloads/packages/ayo-cello-audition-practice.zip",
-    "title" : "AYO Cello Audition Practice",
-    "id" : "ayo-cello-audition-practice",
-    "stepCount" : 6,
-    "thumbnailEmoji" : "🎵 🎻"
-  },
-  {
-    "tags" : [
+    "tags": [
       "Iraklis"
     ],
-    "description" : "A practice plan to learn this piece. Note: large download, contains videos!",
-    "zipUrl" : "/downloads/packages/longa-nahawand.zip",
-    "title" : "Longa Nahawand",
-    "id" : "longa-nahawand",
-    "stepCount" : 7,
-    "thumbnailEmoji" : "🎵, 🪕,🪗"
+    "description": "A practice plan to learn this piece. Note: large download, contains videos!",
+    "zipUrl": "/downloads/packages/longa-nahawand.zip",
+    "title": "Longa Nahawand",
+    "id": "longa-nahawand",
+    "stepCount": 7,
+    "thumbnailEmoji": "🎵, 🪕,🪗"
   },
   {
-    "tags" : [
-
-    ],
-    "description" : "Practice for recording the AYO audition for Cello. Excerpts 1-3 from list C.",
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/cello-ayo-audition.zip",
-    "title" : "Cello AYO Audition",
-    "id" : "cello-ayo-audition",
-    "stepCount" : 6,
-    "thumbnailEmoji" : "🎵"
+    "tags": [],
+    "description": "Practice for recording the AYO audition for Cello. Excerpts 1-3 from list C.",
+    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/cello-ayo-audition.zip",
+    "title": "Cello AYO Audition",
+    "id": "cello-ayo-audition",
+    "stepCount": 6,
+    "thumbnailEmoji": "🎵"
   },
   {
-    "tags" : [
+    "tags": [
       "Nefeli"
     ],
-    "description" : "Practice for recording the AYO audition for Violin. Excerpts 1-3 from list B.",
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/violin-ayo-audition.zip",
-    "title" : "Violin AYO Audition",
-    "id" : "violin-ayo-audition",
-    "stepCount" : 6,
-    "thumbnailEmoji" : "🎵🎻"
+    "description": "Practice for recording the AYO audition for Violin. Excerpts 1-3 from list B.",
+    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/violin-ayo-audition.zip",
+    "title": "Violin AYO Audition",
+    "id": "violin-ayo-audition",
+    "stepCount": 6,
+    "thumbnailEmoji": "🎵🎻"
   }
 ]
