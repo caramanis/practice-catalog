@@ -1,60 +1,69 @@
 [
   {
-    "title" : "Zeimbekiko Rhythms and Songs",
-    "description" : "Three different zeimbekiko rhythms, and songs that illustrate that rhythm.",
-    "stepCount" : 8,
-    "thumbnailEmoji" : "🪗",
-    "id" : "zeimbekiko",
-    "zipUrl" : "/downloads/v1/zeimbekiko-.-pub-package.zip",
-    "tags" : [
+    "title": "Zeimbekiko Rhythms and Songs",
+    "description": "Three different zeimbekiko rhythms, and songs that illustrate that rhythm.",
+    "stepCount": 8,
+    "thumbnailEmoji": "🪗",
+    "id": "zeimbekiko",
+    "zipUrl": "/downloads/v1/zeimbekiko-.-pub-package.zip",
+    "tags": [
       "rembetiko",
       "9/8"
     ]
   },
   {
-    "title" : "Three Clifton Chenier pieces",
-    "description" : "Listen and learn 3 classic Chenier pieces for accordion.",
-    "stepCount" : 5,
-    "thumbnailEmoji" : "🪗",
-    "id" : "chenier",
-    "zipUrl" : "/downloads/v1/Chenier-package.zip",
-    "tags" : [
+    "title": "Three Clifton Chenier pieces",
+    "description": "Listen and learn 3 classic Chenier pieces for accordion.",
+    "stepCount": 5,
+    "thumbnailEmoji": "🪗",
+    "id": "chenier",
+    "zipUrl": "/downloads/v1/Chenier-package.zip",
+    "tags": [
       "blues",
       "zydeco",
       "louisiana"
     ]
   },
   {
-    "title" : "AYO Violin Audition Material",
-    "description" : "Practice for recording the AYO audition.",
-    "stepCount" : 6,
-    "thumbnailEmoji" : "🎻",
-    "id" : "ayoviolin",
-    "zipUrl" : "/downloads/v1/violin-ayo-audition-package.zip",
-    "tags" : [
+    "title": "AYO Violin Audition Material",
+    "description": "Practice for recording the AYO audition.",
+    "stepCount": 6,
+    "thumbnailEmoji": "🎻",
+    "id": "ayoviolin",
+    "zipUrl": "/downloads/v1/violin-ayo-audition-package.zip",
+    "tags": [
       "violin"
     ]
   },
   {
-    "title" : "AYO Cello Audition Practice",
-    "description" : "",
-    "stepCount" : 6,
-    "thumbnailEmoji" : "🎵 🎻",
-    "id" : "ayo-cello-audition-practice",
-    "zipUrl" : "/downloads/packages/ayo-cello-audition-practice.zip",
-    "tags" : [
-
+    "title": "AYO Cello Audition Practice",
+    "description": "",
+    "stepCount": 6,
+    "thumbnailEmoji": "🎵 🎻",
+    "id": "ayo-cello-audition-practice",
+    "zipUrl": "/downloads/packages/ayo-cello-audition-practice.zip",
+    "tags": []
+  },
+  {
+    "title": "Longa Nahawand",
+    "description": "A practice plan to learn this piece. Note: large download, contains videos!",
+    "stepCount": 7,
+    "thumbnailEmoji": "🎵, 🪕,🪗",
+    "id": "longa-nahawand",
+    "zipUrl": "/downloads/packages/longa-nahawand.zip",
+    "tags": [
+      "Iraklis"
     ]
   },
   {
-    "title" : "Longa Nahawand",
-    "description" : "A practice plan to learn this piece. Note: large download, contains videos!",
-    "stepCount" : 7,
-    "thumbnailEmoji" : "🎵, 🪕,🪗",
-    "id" : "longa-nahawand",
-    "zipUrl" : "/downloads/packages/longa-nahawand.zip",
-    "tags" : [
-      "Iraklis"
-    ]
+    "id": "violin-ayo-audition",
+    "title": "Violin AYO Audition",
+    "description": "Practice for recording the AYO audition for Violin. Excerpts 1-3 from list B.",
+    "tags": [
+      "Nefeli"
+    ],
+    "stepCount": 6,
+    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/violin-ayo-audition.zip",
+    "thumbnailEmoji": "🎵"
   }
 ]
