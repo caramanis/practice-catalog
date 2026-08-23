@@ -1,22 +1,33 @@
 [
   {
-    "id" : "alternate-enallaktiki",
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/alternate-enallaktiki.zip",
     "thumbnailEmoji" : "🎵🔒",
+    "description" : "",
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/alternate-enallaktiki.zip",
     "title" : "Alternate / Εναλλακτική",
     "stepCount" : 8,
-    "description" : "",
+    "id" : "alternate-enallaktiki",
     "tags" : [
       "Cleio"
     ]
   },
   {
-    "id" : "friday-paraskeyi",
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/friday-paraskeyi.zip",
     "thumbnailEmoji" : "🎵🔒",
+    "description" : "",
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/friday-paraskeyi.zip",
     "title" : "Friday / Παρασκευή",
     "stepCount" : 8,
+    "id" : "friday-paraskeyi",
+    "tags" : [
+      "Cleio"
+    ]
+  },
+  {
+    "thumbnailEmoji" : "🎵🔒",
     "description" : "",
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/monday-deytera.zip",
+    "title" : "Monday / Δευτέρα",
+    "stepCount" : 8,
+    "id" : "monday-deytera",
     "tags" : [
       "Cleio"
     ]
