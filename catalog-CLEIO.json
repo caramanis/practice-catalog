@@ -1,35 +1,46 @@
 [
   {
-    "thumbnailEmoji" : "🎵🔒",
     "description" : "",
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/alternate-enallaktiki.zip",
     "title" : "Alternate / Εναλλακτική",
-    "stepCount" : 8,
+    "thumbnailEmoji" : "🎵🔒",
     "id" : "alternate-enallaktiki",
     "tags" : [
       "Cleio"
-    ]
+    ],
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/alternate-enallaktiki.zip",
+    "stepCount" : 8
   },
   {
-    "thumbnailEmoji" : "🎵🔒",
     "description" : "",
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/friday-paraskeyi.zip",
     "title" : "Friday / Παρασκευή",
-    "stepCount" : 8,
+    "thumbnailEmoji" : "🎵🔒",
     "id" : "friday-paraskeyi",
     "tags" : [
       "Cleio"
-    ]
+    ],
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/friday-paraskeyi.zip",
+    "stepCount" : 8
   },
   {
-    "thumbnailEmoji" : "🎵🔒",
     "description" : "",
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/monday-deytera.zip",
     "title" : "Monday / Δευτέρα",
-    "stepCount" : 8,
+    "thumbnailEmoji" : "🎵🔒",
     "id" : "monday-deytera",
     "tags" : [
       "Cleio"
-    ]
+    ],
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/monday-deytera.zip",
+    "stepCount" : 8
+  },
+  {
+    "description" : "",
+    "title" : "Saturday / Σάββατο",
+    "thumbnailEmoji" : "🎵🔒",
+    "id" : "saturday-savvato",
+    "tags" : [
+      "Cleio"
+    ],
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/saturday-savvato.zip",
+    "stepCount" : 8
   }
 ]
