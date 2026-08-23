@@ -3,8 +3,19 @@
     "id" : "alternate-enallaktiki",
     "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/alternate-enallaktiki.zip",
     "thumbnailEmoji" : "🎵🔒",
-    "stepCount" : 8,
     "title" : "Alternate / Εναλλακτική",
+    "stepCount" : 8,
+    "description" : "",
+    "tags" : [
+      "Cleio"
+    ]
+  },
+  {
+    "id" : "friday-paraskeyi",
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/friday-paraskeyi.zip",
+    "thumbnailEmoji" : "🎵🔒",
+    "title" : "Friday / Παρασκευή",
+    "stepCount" : 8,
     "description" : "",
     "tags" : [
       "Cleio"
