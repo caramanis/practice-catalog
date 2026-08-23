@@ -4,7 +4,7 @@
     "id" : "alternate-enallaktiki",
     "thumbnailEmoji" : "🎵🔒",
     "title" : "Alternate / Εναλλακτική",
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/alternate-enallaktiki.zip",
+    "zipUrl" : "/downloads/packages/alternate-enallaktiki.zip",
     "tags" : [
       "Cleio"
     ],
@@ -15,7 +15,7 @@
     "id" : "friday-paraskeyi",
     "thumbnailEmoji" : "🎵🔒",
     "title" : "Friday / Παρασκευή",
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/friday-paraskeyi.zip",
+    "zipUrl" : "/downloads/packages/friday-paraskeyi.zip",
     "tags" : [
       "Cleio"
     ],
@@ -26,7 +26,7 @@
     "id" : "monday-deytera",
     "thumbnailEmoji" : "🎵🔒",
     "title" : "Monday / Δευτέρα",
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/monday-deytera.zip",
+    "zipUrl" : "/downloads/packages/monday-deytera.zip",
     "tags" : [
       "Cleio"
     ],
@@ -37,7 +37,7 @@
     "id" : "saturday-savvato",
     "thumbnailEmoji" : "🎵🔒",
     "title" : "Saturday / Σάββατο",
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/saturday-savvato.zip",
+    "zipUrl" : "/downloads/packages/saturday-savvato.zip",
     "tags" : [
       "Cleio"
     ],
@@ -48,7 +48,7 @@
     "id" : "thursday-pempti",
     "thumbnailEmoji" : "🎵🔒",
     "title" : "Thursday / Πέμπτη",
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/thursday-pempti.zip",
+    "zipUrl" : "/downloads/packages/thursday-pempti.zip",
     "tags" : [
       "Cleio"
     ],
@@ -59,7 +59,7 @@
     "id" : "tuesday-triti",
     "thumbnailEmoji" : "🎵🔒",
     "title" : "Tuesday / Τρίτη",
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/tuesday-triti.zip",
+    "zipUrl" : "/downloads/packages/tuesday-triti.zip",
     "tags" : [
       "Cleio"
     ],
