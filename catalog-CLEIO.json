@@ -1,57 +1,68 @@
 [
   {
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/alternate-enallaktiki.zip",
-    "thumbnailEmoji" : "🎵🔒",
-    "tags" : [
-      "Cleio"
-    ],
+    "stepCount" : 8,
     "id" : "alternate-enallaktiki",
-    "description" : "",
+    "thumbnailEmoji" : "🎵🔒",
     "title" : "Alternate / Εναλλακτική",
-    "stepCount" : 8
-  },
-  {
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/friday-paraskeyi.zip",
-    "thumbnailEmoji" : "🎵🔒",
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/alternate-enallaktiki.zip",
     "tags" : [
       "Cleio"
     ],
+    "description" : ""
+  },
+  {
+    "stepCount" : 8,
     "id" : "friday-paraskeyi",
-    "description" : "",
+    "thumbnailEmoji" : "🎵🔒",
     "title" : "Friday / Παρασκευή",
-    "stepCount" : 8
-  },
-  {
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/monday-deytera.zip",
-    "thumbnailEmoji" : "🎵🔒",
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/friday-paraskeyi.zip",
     "tags" : [
       "Cleio"
     ],
+    "description" : ""
+  },
+  {
+    "stepCount" : 8,
     "id" : "monday-deytera",
-    "description" : "",
+    "thumbnailEmoji" : "🎵🔒",
     "title" : "Monday / Δευτέρα",
-    "stepCount" : 8
-  },
-  {
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/saturday-savvato.zip",
-    "thumbnailEmoji" : "🎵🔒",
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/monday-deytera.zip",
     "tags" : [
       "Cleio"
     ],
+    "description" : ""
+  },
+  {
+    "stepCount" : 8,
     "id" : "saturday-savvato",
-    "description" : "",
-    "title" : "Saturday / Σάββατο",
-    "stepCount" : 8
-  },
-  {
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/thursday-pempti.zip",
     "thumbnailEmoji" : "🎵🔒",
+    "title" : "Saturday / Σάββατο",
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/saturday-savvato.zip",
     "tags" : [
       "Cleio"
     ],
+    "description" : ""
+  },
+  {
+    "stepCount" : 8,
     "id" : "thursday-pempti",
-    "description" : "",
+    "thumbnailEmoji" : "🎵🔒",
     "title" : "Thursday / Πέμπτη",
-    "stepCount" : 8
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/thursday-pempti.zip",
+    "tags" : [
+      "Cleio"
+    ],
+    "description" : ""
+  },
+  {
+    "stepCount" : 8,
+    "id" : "tuesday-triti",
+    "thumbnailEmoji" : "🎵🔒",
+    "title" : "Tuesday / Τρίτη",
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/tuesday-triti.zip",
+    "tags" : [
+      "Cleio"
+    ],
+    "description" : ""
   }
 ]
