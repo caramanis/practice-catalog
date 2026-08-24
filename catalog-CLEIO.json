@@ -1,79 +1,79 @@
 [
   {
-    "id" : "alternate-enallaktiki",
-    "tags" : [
-      "Cleio"
-    ],
-    "description" : "",
-    "stepCount" : 8,
+    "thumbnailEmoji" : "🎵🔒",
     "title" : "Alternate / Εναλλακτική",
     "zipUrl" : "/downloads/packages/alternate-enallaktiki.zip",
-    "thumbnailEmoji" : "🎵🔒"
-  },
-  {
-    "id" : "friday-paraskeyi",
+    "description" : "",
     "tags" : [
       "Cleio"
     ],
-    "description" : "",
     "stepCount" : 8,
+    "id" : "alternate-enallaktiki"
+  },
+  {
+    "thumbnailEmoji" : "🎵🔒",
     "title" : "Friday / Παρασκευή",
     "zipUrl" : "/downloads/packages/friday-paraskeyi.zip",
-    "thumbnailEmoji" : "🎵🔒"
-  },
-  {
-    "id" : "monday-deytera",
+    "description" : "",
     "tags" : [
       "Cleio"
     ],
-    "description" : "",
     "stepCount" : 8,
+    "id" : "friday-paraskeyi"
+  },
+  {
+    "thumbnailEmoji" : "🎵🔒",
     "title" : "Monday / Δευτέρα",
     "zipUrl" : "/downloads/packages/monday-deytera.zip",
-    "thumbnailEmoji" : "🎵🔒"
-  },
-  {
-    "id" : "saturday-savvato",
+    "description" : "",
     "tags" : [
       "Cleio"
     ],
-    "description" : "",
     "stepCount" : 8,
+    "id" : "monday-deytera"
+  },
+  {
+    "thumbnailEmoji" : "🎵🔒",
     "title" : "Saturday / Σάββατο",
     "zipUrl" : "/downloads/packages/saturday-savvato.zip",
-    "thumbnailEmoji" : "🎵🔒"
-  },
-  {
-    "id" : "thursday-pempti",
+    "description" : "",
     "tags" : [
       "Cleio"
     ],
-    "description" : "",
     "stepCount" : 8,
+    "id" : "saturday-savvato"
+  },
+  {
+    "thumbnailEmoji" : "🎵🔒",
     "title" : "Thursday / Πέμπτη",
     "zipUrl" : "/downloads/packages/thursday-pempti.zip",
-    "thumbnailEmoji" : "🎵🔒"
-  },
-  {
-    "id" : "tuesday-triti",
+    "description" : "",
     "tags" : [
       "Cleio"
     ],
-    "description" : "",
     "stepCount" : 8,
+    "id" : "thursday-pempti"
+  },
+  {
+    "thumbnailEmoji" : "🎵🔒",
     "title" : "Tuesday / Τρίτη",
     "zipUrl" : "/downloads/packages/tuesday-triti.zip",
-    "thumbnailEmoji" : "🎵🔒"
-  },
-  {
-    "id" : "ayo-canzonetta-sept-2026",
+    "description" : "",
     "tags" : [
       "Cleio"
     ],
-    "description" : "Songs for Canzonetta, Fall 2026: Fall River Road, Wildfire, Highlander's Pride and The Old Boatman",
-    "stepCount" : 5,
+    "stepCount" : 8,
+    "id" : "tuesday-triti"
+  },
+  {
+    "thumbnailEmoji" : "🎵🎻🔒",
     "title" : "AYO Canzonetta — Sept 2026",
     "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/ayo-canzonetta-sept-2026.zip",
-    "thumbnailEmoji" : "🎵🎻🔒"
+    "description" : "Songs for Canzonetta, Fall 2026: Wildfire, Fall River Road, Highlander's Pride and The Old Boatman",
+    "tags" : [
+      "Cleio"
+    ],
+    "stepCount" : 11,
+    "id" : "ayo-canzonetta-sept-2026"
   }
 ]
