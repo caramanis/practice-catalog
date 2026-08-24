@@ -1,24 +1,35 @@
 [
   {
-    "id" : "altalena",
     "tags" : [
 
     ],
-    "stepCount" : 4,
+    "description" : "",
+    "title" : "Altalena",
     "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/altalena.zip",
     "thumbnailEmoji" : "🎵🔒",
-    "title" : "Altalena",
-    "description" : ""
+    "stepCount" : 4,
+    "id" : "altalena"
   },
   {
-    "id" : "valentina-akrogialies-marazi-liga-psichoyla",
     "tags" : [
       "Nefeli"
     ],
-    "stepCount" : 5,
+    "description" : "Βαλεντίνα, Ακρογιαλιές Δειλινά, Το Δικό σου το μαράζι, Λίγα ψίχουλα αγάπης",
+    "title" : "Βαλεντίνα Ακρογιαλιές Μαράζι Λίγα ψίχουλα",
     "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/valentina-akrogialies-marazi-liga-psichoyla.zip",
     "thumbnailEmoji" : "🎵🔒",
-    "title" : "Βαλεντίνα Ακρογιαλιές Μαράζι Λίγα ψίχουλα",
-    "description" : "Βαλεντίνα, Ακρογιαλιές Δειλινά, Το Δικό σου το μαράζι, Λίγα ψίχουλα αγάπης"
+    "stepCount" : 5,
+    "id" : "valentina-akrogialies-marazi-liga-psichoyla"
+  },
+  {
+    "tags" : [
+      "Nefeli"
+    ],
+    "description" : "Songs for Sinfonietta, Fall 2026: A Simple Song, Follow the Drinking Gourd, American Reel",
+    "title" : "AYO Sinfonietta — Sept 2026",
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/ayo-sinfonietta-sept-2026.zip",
+    "thumbnailEmoji" : "🎵🎻🔒",
+    "stepCount" : 4,
+    "id" : "ayo-sinfonietta-sept-2026"
   }
 ]
