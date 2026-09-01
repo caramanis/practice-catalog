@@ -54,7 +54,7 @@
     ],
     "stepCount" : 6,
     "description" : "A practice plan to learn this piece. Note: large download, contains videos!",
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/longa-nahawand.zip",
+    "zipUrl" : "/downloads/packages/longa-nahawand.zip",
     "id" : "longa-nahawand"
   }
 ]
