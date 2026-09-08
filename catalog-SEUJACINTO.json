@@ -1,24 +1,35 @@
 [
   {
-    "title" : "Seu Jacinto Intros - A",
-    "description" : "Severina Xique Xique, Coracao Bandido, Fua na Casa de Cabral, Maria do Anga, Forro do Bole Bole",
-    "stepCount" : 5,
     "tags" : [
       "seu jacinto"
     ],
+    "stepCount" : 5,
+    "thumbnailEmoji" : "🎵🪗🇧🇷🔒",
+    "title" : "Seu Jacinto Intros - A",
     "zipUrl" : "/downloads/packages/seu-jacinto-intros-a.zip",
-    "id" : "seu-jacinto-intros-a",
-    "thumbnailEmoji" : "🎵🪗🇧🇷🔒"
+    "description" : "Severina Xique Xique, Coracao Bandido, Fua na Casa de Cabral, Maria do Anga, Forro do Bole Bole",
+    "id" : "seu-jacinto-intros-a"
   },
   {
-    "title" : "CM 9-05-26",
-    "description" : "Central Market Westgate -- September 5, 2026",
-    "stepCount" : 26,
     "tags" : [
       "seu jacinto"
     ],
+    "stepCount" : 26,
+    "thumbnailEmoji" : "🎵🪗🇧🇷🔒",
+    "title" : "CM 9-05-26",
     "zipUrl" : "/downloads/packages/cm-9-05-26.zip",
-    "id" : "cm-9-05-26",
-    "thumbnailEmoji" : "🎵🪗🇧🇷🔒"
+    "description" : "Central Market Westgate -- September 5, 2026",
+    "id" : "cm-9-05-26"
+  },
+  {
+    "tags" : [
+      "Foxxote"
+    ],
+    "stepCount" : 14,
+    "thumbnailEmoji" : "🎵🪗🎸🪘🦊🔒",
+    "title" : "Foxxote Songs",
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/foxxote-songs.zip",
+    "description" : "These are the songs we played 2 years ago",
+    "id" : "foxxote-songs"
   }
 ]
