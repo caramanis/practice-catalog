@@ -26,7 +26,7 @@
     "tags" : [
       "Foxxote"
     ],
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/foxxote-songs.zip",
+    "zipUrl" : "/downloads/packages/foxxote-songs.zip",
     "title" : "Foxxote Songs",
     "description" : "These are the songs we played 2 years ago",
     "stepCount" : 14,
@@ -37,7 +37,7 @@
     "tags" : [
       "Foxxote"
     ],
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/frank-foxxote-songs.zip",
+    "zipUrl" : "/downloads/packages/frank-foxxote-songs.zip",
     "title" : "Frank Foxxote Songs",
     "description" : "The songs from Frank's new album",
     "stepCount" : 11,
