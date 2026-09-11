@@ -1,46 +1,57 @@
 [
   {
-    "thumbnailEmoji" : "🎵🪗🇧🇷🔒",
+    "zipUrl" : "/downloads/packages/seu-jacinto-intros-a.zip",
     "tags" : [
       "seu jacinto"
     ],
-    "zipUrl" : "/downloads/packages/seu-jacinto-intros-a.zip",
+    "stepCount" : 5,
     "title" : "Seu Jacinto Intros - A",
     "description" : "Severina Xique Xique, Coracao Bandido, Fua na Casa de Cabral, Maria do Anga, Forro do Bole Bole",
-    "stepCount" : 5,
-    "id" : "seu-jacinto-intros-a"
+    "id" : "seu-jacinto-intros-a",
+    "thumbnailEmoji" : "🎵🪗🇧🇷🔒"
   },
   {
-    "thumbnailEmoji" : "🎵🪗🇧🇷🔒",
+    "zipUrl" : "/downloads/packages/cm-9-05-26.zip",
     "tags" : [
       "seu jacinto"
     ],
-    "zipUrl" : "/downloads/packages/cm-9-05-26.zip",
+    "stepCount" : 26,
     "title" : "CM 9-05-26",
     "description" : "Central Market Westgate -- September 5, 2026",
-    "stepCount" : 26,
-    "id" : "cm-9-05-26"
+    "id" : "cm-9-05-26",
+    "thumbnailEmoji" : "🎵🪗🇧🇷🔒"
   },
   {
-    "thumbnailEmoji" : "🎵🪗🎸🪘🦊🔒",
+    "zipUrl" : "/downloads/packages/foxxote-songs.zip",
     "tags" : [
       "Foxxote"
     ],
-    "zipUrl" : "/downloads/packages/foxxote-songs.zip",
+    "stepCount" : 14,
     "title" : "Foxxote Songs",
     "description" : "These are the songs we played 2 years ago",
-    "stepCount" : 14,
-    "id" : "foxxote-songs"
+    "id" : "foxxote-songs",
+    "thumbnailEmoji" : "🎵🪗🎸🪘🦊🔒"
   },
   {
-    "thumbnailEmoji" : "🎵🪗🎸🪘🦊🔒",
+    "zipUrl" : "/downloads/packages/frank-foxxote-songs.zip",
     "tags" : [
       "Foxxote"
     ],
-    "zipUrl" : "/downloads/packages/frank-foxxote-songs.zip",
+    "stepCount" : 11,
     "title" : "Frank Foxxote Songs",
     "description" : "The songs from Frank's new album",
-    "stepCount" : 11,
-    "id" : "frank-foxxote-songs"
+    "id" : "frank-foxxote-songs",
+    "thumbnailEmoji" : "🎵🪗🎸🪘🦊🔒"
+  },
+  {
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/foxxote-sahara-sept-25-2026.zip",
+    "tags" : [
+      "Foxxote"
+    ],
+    "stepCount" : 25,
+    "title" : "Foxxote Sahara Sept 25 2026",
+    "description" : "",
+    "id" : "foxxote-sahara-sept-25-2026",
+    "thumbnailEmoji" : "🎵🔒"
   }
 ]
