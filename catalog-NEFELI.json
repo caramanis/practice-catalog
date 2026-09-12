@@ -13,7 +13,7 @@
   {
     "id" : "valentina-akrogialies-marazi-liga-psichoyla",
     "title" : "Βαλεντίνα Ακρογιαλιές Μαράζι Λίγα ψίχουλα",
-    "zipUrl" : "downloads/packages/valentina-akrogialies-marazi-liga-psichoyla.zip",
+    "zipUrl" : "/downloads/packages/valentina-akrogialies-marazi-liga-psichoyla.zip",
     "thumbnailEmoji" : "🎵🔒",
     "description" : "Βαλεντίνα, Ακρογιαλιές Δειλινά, Το Δικό σου το μαράζι, Λίγα ψίχουλα αγάπης",
     "tags" : [
@@ -24,7 +24,7 @@
   {
     "id" : "ayo-sinfonietta-sept-2026",
     "title" : "AYO Sinfonietta — Sept 2026",
-    "zipUrl" : "downloads/packages/packages/ayo-sinfonietta-sept-2026.zip",
+    "zipUrl" : "/downloads/packages/packages/ayo-sinfonietta-sept-2026.zip",
     "thumbnailEmoji" : "🎵🎻🔒",
     "description" : "Songs for Sinfonietta, Fall 2026: A Simple Song, Follow the Drinking Gourd, American Reel",
     "tags" : [
@@ -35,7 +35,7 @@
   {
     "id" : "gkarsona",
     "title" : "Γκαρσόνα",
-    "zipUrl" : "downloads/packages/gkarsona.zip",
+    "zipUrl" : "/downloads/packages/gkarsona.zip",
     "thumbnailEmoji" : "🎵",
     "description" : "Η πιο καλή γκαρσόνα!",
     "tags" : [
