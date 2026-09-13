@@ -1,29 +1,49 @@
 [
-    {
-      "id": "midi-test",
-      "title": "midi test",
-      "description": "Testing how playback on midi files sounds.",
-      "tags": ["midi"],
-      "stepCount": 3,
-      "zipUrl": "/downloads/v1/midi-test-package.zip",
-      "thumbnailEmoji": ""
-    },
-    {
-      "id": "zeimbekiko",
-      "title": "Zeimbekiko Rhythms and Songs",
-      "description": "Three different zeimbekiko rhythms, and songs that illustrate that rhythm.",
-      "tags": ["rembetiko", "9/8"],
-      "stepCount": 8,
-      "zipUrl": "/downloads/v1/zeimbekiko-.-pub-package.zip",
-      "thumbnailEmoji": "🪗"
-    },
-    {
-      "id": "chenier",
-      "title": "Three Clifton Chenier pieces",
-      "description": "Listen and learn 3 classic Chenier pieces for accordion.",
-      "tags": ["blues", "zydeco", "louisiana"],
-      "stepCount": 5,
-      "zipUrl": "/downloads/v1/Chenier-package.zip",
-      "thumbnailEmoji": "🪗"
-    }
-  ]
+  {
+    "id": "midi-test",
+    "title": "midi test",
+    "description": "Testing how playback on midi files sounds.",
+    "tags": [
+      "midi"
+    ],
+    "stepCount": 3,
+    "zipUrl": "/downloads/v1/midi-test-package.zip",
+    "thumbnailEmoji": ""
+  },
+  {
+    "id": "zeimbekiko",
+    "title": "Zeimbekiko Rhythms and Songs",
+    "description": "Three different zeimbekiko rhythms, and songs that illustrate that rhythm.",
+    "tags": [
+      "rembetiko",
+      "9/8"
+    ],
+    "stepCount": 8,
+    "zipUrl": "/downloads/v1/zeimbekiko-.-pub-package.zip",
+    "thumbnailEmoji": "🪗"
+  },
+  {
+    "id": "chenier",
+    "title": "Three Clifton Chenier pieces",
+    "description": "Listen and learn 3 classic Chenier pieces for accordion.",
+    "tags": [
+      "blues",
+      "zydeco",
+      "louisiana"
+    ],
+    "stepCount": 5,
+    "zipUrl": "/downloads/v1/Chenier-package.zip",
+    "thumbnailEmoji": "🪗"
+  },
+  {
+    "id": "tuesday-triti-sep-8",
+    "title": "Tuesday / Τρίτη — Sep 8",
+    "description": "",
+    "tags": [
+      "Cleio"
+    ],
+    "stepCount": 9,
+    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/tuesday-triti-sep-8.practice",
+    "thumbnailEmoji": "🎵🔒"
+  }
+]
