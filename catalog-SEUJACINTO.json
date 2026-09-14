@@ -1,57 +1,57 @@
 [
   {
-    "zipUrl" : "/downloads/packages/seu-jacinto-intros-a.zip",
-    "tags" : [
-      "seu jacinto"
-    ],
-    "stepCount" : 5,
+    "id" : "seu-jacinto-intros-a",
     "title" : "Seu Jacinto Intros - A",
     "description" : "Severina Xique Xique, Coracao Bandido, Fua na Casa de Cabral, Maria do Anga, Forro do Bole Bole",
-    "id" : "seu-jacinto-intros-a",
-    "thumbnailEmoji" : "🎵🪗🇧🇷🔒"
-  },
-  {
-    "zipUrl" : "/downloads/packages/cm-9-05-26.zip",
     "tags" : [
       "seu jacinto"
     ],
-    "stepCount" : 26,
+    "thumbnailEmoji" : "🎵🪗🇧🇷🔒",
+    "stepCount" : 5,
+    "zipUrl" : "/downloads/packages/seu-jacinto-intros-a.zip"
+  },
+  {
+    "id" : "cm-9-05-26",
     "title" : "CM 9-05-26",
     "description" : "Central Market Westgate -- September 5, 2026",
-    "id" : "cm-9-05-26",
-    "thumbnailEmoji" : "🎵🪗🇧🇷🔒"
+    "tags" : [
+      "seu jacinto"
+    ],
+    "thumbnailEmoji" : "🎵🪗🇧🇷🔒",
+    "stepCount" : 26,
+    "zipUrl" : "/downloads/packages/cm-9-05-26.zip"
   },
   {
-    "zipUrl" : "/downloads/packages/foxxote-songs.zip",
-    "tags" : [
-      "Foxxote"
-    ],
-    "stepCount" : 14,
+    "id" : "foxxote-songs",
     "title" : "Foxxote Songs",
     "description" : "These are the songs we played 2 years ago",
-    "id" : "foxxote-songs",
-    "thumbnailEmoji" : "🎵🪗🎸🪘🦊🔒"
-  },
-  {
-    "zipUrl" : "/downloads/packages/frank-foxxote-songs.zip",
     "tags" : [
       "Foxxote"
     ],
-    "stepCount" : 11,
-    "title" : "Frank Foxxote Songs",
-    "description" : "The songs from Frank's new album",
-    "id" : "frank-foxxote-songs",
-    "thumbnailEmoji" : "🎵🪗🎸🪘🦊🔒"
+    "thumbnailEmoji" : "🎵🪗🎸🪘🦊🔒",
+    "stepCount" : 14,
+    "zipUrl" : "/downloads/packages/foxxote-songs.zip"
   },
   {
-    "zipUrl" : "/downloads/packages/foxxote-sahara-sept-25-2026.zip",
-    "tags" : [
-      "Foxxote"
-    ],
-    "stepCount" : 25,
+    "id" : "foxxote-sahara-sept-25-2026",
     "title" : "Foxxote Sahara Sept 25 2026",
     "description" : "",
-    "id" : "foxxote-sahara-sept-25-2026",
-    "thumbnailEmoji" : "🎵🔒"
+    "tags" : [
+      "Foxxote"
+    ],
+    "thumbnailEmoji" : "🎵🔒",
+    "stepCount" : 25,
+    "zipUrl" : "/downloads/packages/foxxote-sahara-sept-25-2026.zip"
+  },
+  {
+    "id" : "frank-foxxote-songs",
+    "title" : "Frank Foxxote Songs",
+    "description" : "",
+    "tags" : [
+      "Foxxote"
+    ],
+    "thumbnailEmoji" : "🎵🪗🎸🪘🦊🔒",
+    "stepCount" : 11,
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/frank-foxxote-songs.practice"
   }
 ]
