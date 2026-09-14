@@ -1,60 +1,71 @@
 [
   {
-    "stepCount" : 3,
-    "description" : "Testing how playback on midi files sounds.",
-    "zipUrl" : "/downloads/v1/midi-test-package.zip",
     "tags" : [
       "midi"
     ],
+    "stepCount" : 3,
+    "id" : "midi-test",
     "thumbnailEmoji" : "",
     "title" : "midi test",
-    "id" : "midi-test"
+    "zipUrl" : "/downloads/v1/midi-test-package.zip",
+    "description" : "Testing how playback on midi files sounds."
   },
   {
-    "stepCount" : 8,
-    "description" : "Three different zeimbekiko rhythms, and songs that illustrate that rhythm.",
-    "zipUrl" : "/downloads/v1/zeimbekiko-.-pub-package.zip",
     "tags" : [
       "rembetiko",
       "9/8"
     ],
+    "stepCount" : 8,
+    "id" : "zeimbekiko",
     "thumbnailEmoji" : "🪗",
     "title" : "Zeimbekiko Rhythms and Songs",
-    "id" : "zeimbekiko"
+    "zipUrl" : "/downloads/v1/zeimbekiko-.-pub-package.zip",
+    "description" : "Three different zeimbekiko rhythms, and songs that illustrate that rhythm."
   },
   {
-    "stepCount" : 5,
-    "description" : "Listen and learn 3 classic Chenier pieces for accordion.",
-    "zipUrl" : "/downloads/v1/Chenier-package.zip",
     "tags" : [
       "blues",
       "zydeco",
       "louisiana"
     ],
+    "stepCount" : 5,
+    "id" : "chenier",
     "thumbnailEmoji" : "🪗",
     "title" : "Three Clifton Chenier pieces",
-    "id" : "chenier"
+    "zipUrl" : "/downloads/v1/Chenier-package.zip",
+    "description" : "Listen and learn 3 classic Chenier pieces for accordion."
   },
   {
+    "title" : "Tuesday / Τρίτη — Sep 8",
+    "thumbnailEmoji" : "🎵🔒",
     "stepCount" : 9,
-    "description" : "",
+    "id" : "tuesday-triti-sep-8",
     "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/tuesday-triti-sep-8.practice",
+    "description" : "",
     "tags" : [
       "Cleio"
-    ],
-    "thumbnailEmoji" : "🎵🔒",
-    "title" : "Tuesday / Τρίτη — Sep 8",
-    "id" : "tuesday-triti-sep-8"
+    ]
   },
   {
+    "title" : "Frank Foxxote Songs",
+    "thumbnailEmoji" : "🎵🔒",
     "stepCount" : 11,
-    "description" : "",
+    "id" : "frank-foxxote-songs",
     "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/frank-foxxote-songs.practice",
+    "description" : "",
     "tags" : [
       "Foxxote"
-    ],
+    ]
+  },
+  {
+    "title" : "Friday practice",
     "thumbnailEmoji" : "🎵🔒",
-    "title" : "Frank Foxxote Songs",
-    "id" : "frank-foxxote-songs"
+    "stepCount" : 8,
+    "id" : "friday-practice",
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/friday-practice.practice",
+    "description" : "",
+    "tags" : [
+      "Cleio"
+    ]
   }
 ]
