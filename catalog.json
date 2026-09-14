@@ -34,16 +34,5 @@
     "description": "A practice plan to learn this piece. Note: large download, contains videos!",
     "zipUrl": "/downloads/packages/longa-nahawand.zip",
     "id": "longa-nahawand"
-  },
-  {
-    "id": "monday-deytera-sep-7",
-    "title": "Monday / Δευτέρα — Sep 7",
-    "description": "",
-    "tags": [
-      "Cleio"
-    ],
-    "stepCount": 10,
-    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/monday-deytera-sep-7.practice",
-    "thumbnailEmoji": "🎵🔒"
   }
 ]
