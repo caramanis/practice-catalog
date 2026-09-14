@@ -1,57 +1,57 @@
 [
   {
-    "id" : "seu-jacinto-intros-a",
-    "title" : "Seu Jacinto Intros - A",
     "description" : "Severina Xique Xique, Coracao Bandido, Fua na Casa de Cabral, Maria do Anga, Forro do Bole Bole",
-    "tags" : [
-      "seu jacinto"
-    ],
     "thumbnailEmoji" : "🎵🪗🇧🇷🔒",
+    "zipUrl" : "/downloads/packages/seu-jacinto-intros-a.zip",
     "stepCount" : 5,
-    "zipUrl" : "/downloads/packages/seu-jacinto-intros-a.zip"
-  },
-  {
-    "id" : "cm-9-05-26",
-    "title" : "CM 9-05-26",
-    "description" : "Central Market Westgate -- September 5, 2026",
+    "title" : "Seu Jacinto Intros - A",
+    "id" : "seu-jacinto-intros-a",
     "tags" : [
       "seu jacinto"
-    ],
+    ]
+  },
+  {
+    "description" : "Central Market Westgate -- September 5, 2026",
     "thumbnailEmoji" : "🎵🪗🇧🇷🔒",
+    "zipUrl" : "/downloads/packages/cm-9-05-26.zip",
     "stepCount" : 26,
-    "zipUrl" : "/downloads/packages/cm-9-05-26.zip"
-  },
-  {
-    "id" : "foxxote-songs",
-    "title" : "Foxxote Songs",
-    "description" : "These are the songs we played 2 years ago",
+    "title" : "CM 9-05-26",
+    "id" : "cm-9-05-26",
     "tags" : [
-      "Foxxote"
-    ],
-    "thumbnailEmoji" : "🎵🪗🎸🪘🦊🔒",
-    "stepCount" : 14,
-    "zipUrl" : "/downloads/packages/foxxote-songs.zip"
+      "seu jacinto"
+    ]
   },
   {
-    "id" : "foxxote-sahara-sept-25-2026",
-    "title" : "Foxxote Sahara Sept 25 2026",
     "description" : "",
-    "tags" : [
-      "Foxxote"
-    ],
     "thumbnailEmoji" : "🎵🔒",
+    "zipUrl" : "/downloads/packages/foxxote-sahara-sept-25-2026.zip",
     "stepCount" : 25,
-    "zipUrl" : "/downloads/packages/foxxote-sahara-sept-25-2026.zip"
-  },
-  {
-    "id" : "frank-foxxote-songs",
-    "title" : "Frank Foxxote Songs",
-    "description" : "",
+    "title" : "Foxxote Sahara Sept 25 2026",
+    "id" : "foxxote-sahara-sept-25-2026",
     "tags" : [
       "Foxxote"
-    ],
+    ]
+  },
+  {
+    "description" : "",
     "thumbnailEmoji" : "🎵🪗🎸🪘🦊🔒",
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/frank-foxxote-songs.practice",
     "stepCount" : 11,
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/frank-foxxote-songs.practice"
+    "title" : "Frank Foxxote Songs",
+    "id" : "frank-foxxote-songs",
+    "tags" : [
+      "Foxxote"
+    ]
+  },
+  {
+    "description" : "These are the songs we played 2 years ago",
+    "thumbnailEmoji" : "🎵🪗🎸🪘🦊🔒",
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/foxxote-songs.practice",
+    "stepCount" : 14,
+    "title" : "Foxxote Songs",
+    "id" : "foxxote-songs",
+    "tags" : [
+      "Foxxote"
+    ]
   }
 ]
