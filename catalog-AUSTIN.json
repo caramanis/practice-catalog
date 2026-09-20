@@ -1,71 +1,82 @@
 [
   {
-    "zipUrl" : "/downloads/v1/zeimbekiko-.-pub-package.zip",
+    "description" : "Three different zeimbekiko rhythms, and songs that illustrate that rhythm.",
+    "id" : "zeimbekiko",
+    "thumbnailEmoji" : "🪗",
+    "title" : "Zeimbekiko Rhythms and Songs",
     "tags" : [
       "rembetiko",
       "9/8"
     ],
-    "description" : "Three different zeimbekiko rhythms, and songs that illustrate that rhythm.",
     "stepCount" : 8,
-    "id" : "zeimbekiko",
-    "title" : "Zeimbekiko Rhythms and Songs",
-    "thumbnailEmoji" : "🪗"
+    "zipUrl" : "/downloads/v1/zeimbekiko-.-pub-package.zip"
   },
   {
-    "zipUrl" : "/downloads/v1/Chenier-package.zip",
+    "description" : "Listen and learn 3 classic Chenier pieces for accordion.",
+    "id" : "chenier",
+    "thumbnailEmoji" : "🪗",
+    "title" : "Three Clifton Chenier pieces",
     "tags" : [
       "blues",
       "zydeco",
       "louisiana"
     ],
-    "description" : "Listen and learn 3 classic Chenier pieces for accordion.",
     "stepCount" : 5,
-    "id" : "chenier",
-    "title" : "Three Clifton Chenier pieces",
-    "thumbnailEmoji" : "🪗"
+    "zipUrl" : "/downloads/v1/Chenier-package.zip"
   },
   {
-    "stepCount" : 9,
+    "description" : "",
     "id" : "tuesday-triti-sep-8",
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/tuesday-triti-sep-8.practice",
+    "thumbnailEmoji" : "🎵🔒",
+    "title" : "Tuesday / Τρίτη — Sep 8",
     "tags" : [
       "Cleio"
     ],
-    "thumbnailEmoji" : "🎵🔒",
-    "description" : "",
-    "title" : "Tuesday / Τρίτη — Sep 8"
+    "stepCount" : 9,
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/tuesday-triti-sep-8.practice"
   },
   {
-    "stepCount" : 11,
+    "description" : "",
     "id" : "frank-foxxote-songs",
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/frank-foxxote-songs.practice",
+    "thumbnailEmoji" : "🎵🔒",
+    "title" : "Frank Foxxote Songs",
     "tags" : [
       "Foxxote"
     ],
-    "thumbnailEmoji" : "🎵🔒",
-    "description" : "",
-    "title" : "Frank Foxxote Songs"
+    "stepCount" : 11,
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/frank-foxxote-songs.practice"
   },
   {
-    "stepCount" : 8,
+    "description" : "",
     "id" : "friday-practice",
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/friday-practice.practice",
+    "thumbnailEmoji" : "🎵🔒",
+    "title" : "Friday practice",
     "tags" : [
       "Cleio"
     ],
-    "thumbnailEmoji" : "🎵🔒",
-    "description" : "",
-    "title" : "Friday practice"
+    "stepCount" : 8,
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/friday-practice.practice"
   },
   {
-    "stepCount" : 4,
+    "description" : "",
     "id" : "midi-test",
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/midi-test.practice",
+    "thumbnailEmoji" : "🎵",
+    "title" : "midi test",
     "tags" : [
 
     ],
+    "stepCount" : 4,
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/midi-test.practice"
+  },
+  {
+    "description" : "Prima vista testing",
+    "id" : "12-etudes-theodore-lack",
     "thumbnailEmoji" : "🎵",
-    "description" : "",
-    "title" : "midi test"
+    "title" : "12 Etudes (Theodore Lack)",
+    "tags" : [
+
+    ],
+    "stepCount" : 1,
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/12-etudes-theodore-lack.practice"
   }
 ]
