@@ -1,47 +1,49 @@
 [
   {
-    "thumbnailEmoji": "🪗",
-    "title": "Zeimbekiko Rhythms and Songs",
-    "tags": [
+    "zipUrl" : "/downloads/v1/zeimbekiko-.-pub-package.zip",
+    "thumbnailEmoji" : "🪗",
+    "stepCount" : 8,
+    "tags" : [
       "rembetiko",
       "9/8"
     ],
-    "stepCount": 8,
-    "description": "Three different zeimbekiko rhythms, and songs that illustrate that rhythm.",
-    "zipUrl": "/downloads/v1/zeimbekiko-.-pub-package.zip",
-    "id": "zeimbekiko"
+    "description" : "Three different zeimbekiko rhythms, and songs that illustrate that rhythm.",
+    "id" : "zeimbekiko",
+    "title" : "Zeimbekiko Rhythms and Songs"
   },
   {
-    "thumbnailEmoji": "🪗",
-    "title": "Three Clifton Chenier pieces",
-    "tags": [
+    "zipUrl" : "/downloads/v1/Chenier-package.zip",
+    "thumbnailEmoji" : "🪗",
+    "stepCount" : 5,
+    "tags" : [
       "blues",
       "zydeco",
       "louisiana"
     ],
-    "stepCount": 5,
-    "description": "Listen and learn 3 classic Chenier pieces for accordion.",
-    "zipUrl": "/downloads/v1/Chenier-package.zip",
-    "id": "chenier"
+    "description" : "Listen and learn 3 classic Chenier pieces for accordion.",
+    "id" : "chenier",
+    "title" : "Three Clifton Chenier pieces"
   },
   {
-    "thumbnailEmoji": "🎵, 🪕,🪗",
-    "title": "Longa Nahawand",
-    "tags": [
+    "title" : "Longa Nahawand",
+    "tags" : [
       "Iraklis"
     ],
-    "stepCount": 6,
-    "description": "A practice plan to learn this piece. Note: large download, contains videos!",
-    "zipUrl": "/downloads/packages/longa-nahawand.zip",
-    "id": "longa-nahawand"
+    "id" : "longa-nahawand",
+    "stepCount" : 6,
+    "description" : "A practice plan to learn this piece. Note: large download, contains videos!",
+    "thumbnailEmoji" : "🎵, 🪕,🪗",
+    "zipUrl" : "/downloads/packages/longa-nahawand.zip"
   },
   {
-    "id": "lagrima-by-francisco-tarrega",
-    "title": "Lagrima by Francisco Tarrega",
-    "description": "A beautiful piece for guitar, performed by Dimitris Papangelides (Δημήτρης Παπαγγελίδης)",
-    "tags": [],
-    "stepCount": 6,
-    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/lagrima-by-francisco-tarrega.practice",
-    "thumbnailEmoji": "🎵🎸"
+    "title" : "Lagrima by Francisco Tarrega",
+    "tags" : [
+
+    ],
+    "id" : "lagrima-by-francisco-tarrega",
+    "stepCount" : 6,
+    "description" : "A beautiful piece for guitar, performed by Dimitris Papangelides (Δημήτρης Παπαγγελίδης)",
+    "thumbnailEmoji" : "🎵🎸",
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/lagrima-by-francisco-tarrega.practice"
   }
 ]
