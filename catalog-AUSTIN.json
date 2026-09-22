@@ -74,14 +74,5 @@
     "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/12-etudes-theodore-lack.practice",
     "description": "",
     "stepCount": 1
-  },
-  {
-    "id": "lagrima",
-    "title": "Lagrima",
-    "description": "",
-    "tags": [],
-    "stepCount": 6,
-    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/lagrima.practice",
-    "thumbnailEmoji": "🎵"
   }
 ]
