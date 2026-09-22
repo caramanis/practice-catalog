@@ -34,5 +34,14 @@
     "description": "A practice plan to learn this piece. Note: large download, contains videos!",
     "zipUrl": "/downloads/packages/longa-nahawand.zip",
     "id": "longa-nahawand"
+  },
+  {
+    "id": "lagrima-by-francisco-tarrega",
+    "title": "Lagrima by Francisco Tarrega",
+    "description": "A beautiful piece for guitar, performed by Dimitris Papangelides (Δημήτρης Παπαγγελίδης)",
+    "tags": [],
+    "stepCount": 6,
+    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/lagrima-by-francisco-tarrega.practice",
+    "thumbnailEmoji": "🎵🎸"
   }
 ]
