@@ -1,49 +1,60 @@
 [
   {
+    "description" : "Three different zeimbekiko rhythms, and songs that illustrate that rhythm.",
+    "id" : "zeimbekiko",
     "zipUrl" : "/downloads/v1/zeimbekiko-.-pub-package.zip",
     "thumbnailEmoji" : "🪗",
-    "stepCount" : 8,
+    "title" : "Zeimbekiko Rhythms and Songs",
     "tags" : [
       "rembetiko",
       "9/8"
     ],
-    "description" : "Three different zeimbekiko rhythms, and songs that illustrate that rhythm.",
-    "id" : "zeimbekiko",
-    "title" : "Zeimbekiko Rhythms and Songs"
+    "stepCount" : 8
   },
   {
+    "description" : "Listen and learn 3 classic Chenier pieces for accordion.",
+    "id" : "chenier",
     "zipUrl" : "/downloads/v1/Chenier-package.zip",
     "thumbnailEmoji" : "🪗",
-    "stepCount" : 5,
+    "title" : "Three Clifton Chenier pieces",
     "tags" : [
       "blues",
       "zydeco",
       "louisiana"
     ],
-    "description" : "Listen and learn 3 classic Chenier pieces for accordion.",
-    "id" : "chenier",
-    "title" : "Three Clifton Chenier pieces"
+    "stepCount" : 5
   },
   {
+    "description" : "A practice plan to learn this piece. Note: large download, contains videos!",
+    "id" : "longa-nahawand",
+    "zipUrl" : "/downloads/packages/longa-nahawand.zip",
+    "thumbnailEmoji" : "🎵, 🪕,🪗",
     "title" : "Longa Nahawand",
     "tags" : [
       "Iraklis"
     ],
-    "id" : "longa-nahawand",
-    "stepCount" : 6,
-    "description" : "A practice plan to learn this piece. Note: large download, contains videos!",
-    "thumbnailEmoji" : "🎵, 🪕,🪗",
-    "zipUrl" : "/downloads/packages/longa-nahawand.zip"
+    "stepCount" : 6
   },
   {
+    "description" : "A beautiful piece for guitar, performed by Dimitris Papangelides (Δημήτρης Παπαγγελίδης)",
+    "id" : "lagrima-by-francisco-tarrega",
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/lagrima-by-francisco-tarrega.practice",
+    "thumbnailEmoji" : "🎵🎸",
     "title" : "Lagrima by Francisco Tarrega",
     "tags" : [
 
     ],
-    "id" : "lagrima-by-francisco-tarrega",
-    "stepCount" : 6,
-    "description" : "A beautiful piece for guitar, performed by Dimitris Papangelides (Δημήτρης Παπαγγελίδης)",
-    "thumbnailEmoji" : "🎵🎸",
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/lagrima-by-francisco-tarrega.practice"
+    "stepCount" : 6
+  },
+  {
+    "description" : "Two classics, performed by Vaggelis Petriniotis (Βαγγέλης Πετρινιώτης)",
+    "id" : "to-perasma-mayra-matia",
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/to-perasma-mayra-matia.practice",
+    "thumbnailEmoji" : "🎵🪕",
+    "title" : "Το Πέρασμα & Μαύρα Μάτια",
+    "tags" : [
+
+    ],
+    "stepCount" : 8
   }
 ]
