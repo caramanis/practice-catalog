@@ -1,69 +1,69 @@
 [
   {
-    "thumbnailEmoji" : "🪗",
-    "stepCount" : 8,
-    "description" : "Three different zeimbekiko rhythms, and songs that illustrate that rhythm.",
     "title" : "Zeimbekiko Rhythms and Songs",
+    "zipUrl" : "/downloads/v1/zeimbekiko-.-pub-package.zip",
+    "stepCount" : 8,
+    "thumbnailEmoji" : "🪗",
     "tags" : [
       "rembetiko",
       "9/8"
     ],
-    "zipUrl" : "/downloads/v1/zeimbekiko-.-pub-package.zip",
+    "description" : "Three different zeimbekiko rhythms, and songs that illustrate that rhythm.",
     "id" : "zeimbekiko"
   },
   {
-    "thumbnailEmoji" : "🎵, 🪕,🪗",
     "stepCount" : 6,
-    "description" : "A practice plan to learn this piece. Note: large download, contains videos!",
-    "title" : "Longa Nahawand",
-    "tags" : [
-      "Iraklis"
-    ],
-    "zipUrl" : "/downloads/packages/longa-nahawand.zip",
-    "id" : "longa-nahawand"
-  },
-  {
     "thumbnailEmoji" : "🎵🎸",
-    "stepCount" : 6,
-    "description" : "A beautiful piece for guitar, performed by Dimitris Papangelides (Δημήτρης Παπαγγελίδης)",
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/lagrima-by-francisco-tarrega.practice",
+    "id" : "lagrima-by-francisco-tarrega",
     "title" : "Lagrima by Francisco Tarrega",
     "tags" : [
 
     ],
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/lagrima-by-francisco-tarrega.practice",
-    "id" : "lagrima-by-francisco-tarrega"
+    "description" : "A beautiful piece for guitar, performed by Dimitris Papangelides (Δημήτρης Παπαγγελίδης)"
   },
   {
-    "title" : "Το Πέρασμα & Μαύρα Μάτια",
     "stepCount" : 8,
-    "id" : "to-perasma-mayra-matia",
-    "description" : "Two classics, performed by Vaggelis Petriniotis (Βαγγέλης Πετρινιώτης)",
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/to-perasma-mayra-matia.practice",
     "thumbnailEmoji" : "🎵🪕",
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/to-perasma-mayra-matia.practice",
+    "id" : "to-perasma-mayra-matia",
+    "title" : "Το Πέρασμα & Μαύρα Μάτια",
     "tags" : [
 
-    ]
+    ],
+    "description" : "Two classics, performed by Vaggelis Petriniotis (Βαγγέλης Πετρινιώτης)"
   },
   {
+    "id" : "zeimbekiko-zeimpekiko-pub",
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/zeimbekiko-zeimpekiko-pub.practice",
     "title" : "Zeimbekiko / Ζεϊμπέκικο (pub)",
     "stepCount" : 8,
-    "id" : "zeimbekiko-zeimpekiko-pub",
-    "description" : "Three different zeimbekiko rhythms, and songs that illustrate that rhythm.",
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/zeimbekiko-zeimpekiko-pub.practice",
     "thumbnailEmoji" : "🎵, 🪕,🪗",
+    "description" : "Three different zeimbekiko rhythms, and songs that illustrate that rhythm.",
     "tags" : [
 
     ]
   },
   {
+    "id" : "chenier",
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/chenier.practice",
     "title" : "Chenier",
     "stepCount" : 5,
-    "id" : "chenier",
-    "description" : "Three Clifton Chenier pieces",
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/chenier.practice",
     "thumbnailEmoji" : "🎵,🪗",
+    "description" : "Three Clifton Chenier pieces",
     "tags" : [
 
+    ]
+  },
+  {
+    "id" : "longa-nahawand",
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/longa-nahawand.practice",
+    "title" : "Longa Nahawand",
+    "stepCount" : 7,
+    "thumbnailEmoji" : "🎵,🪗",
+    "description" : "A practice plan to learn this piece. Note: large download, contains videos!",
+    "tags" : [
+      "Iraklis"
     ]
   }
 ]
