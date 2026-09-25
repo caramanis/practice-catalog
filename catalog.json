@@ -34,17 +34,6 @@
     "description" : "Two classics, performed by Vaggelis Petriniotis (Βαγγέλης Πετρινιώτης)"
   },
   {
-    "id" : "zeimbekiko-zeimpekiko-pub",
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/zeimbekiko-zeimpekiko-pub.practice",
-    "title" : "Zeimbekiko / Ζεϊμπέκικο (pub)",
-    "stepCount" : 8,
-    "thumbnailEmoji" : "🎵, 🪕,🪗",
-    "description" : "Three different zeimbekiko rhythms, and songs that illustrate that rhythm.",
-    "tags" : [
-
-    ]
-  },
-  {
     "id" : "chenier",
     "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/chenier.practice",
     "title" : "Chenier",
