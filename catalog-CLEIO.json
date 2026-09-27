@@ -12,17 +12,6 @@
   },
   {
     "thumbnailEmoji": "🎵🔒",
-    "title": "Thursday / Πέμπτη",
-    "zipUrl": "/downloads/packages/thursday-pempti.zip",
-    "description": "",
-    "tags": [
-      "Cleio"
-    ],
-    "stepCount": 8,
-    "id": "thursday-pempti"
-  },
-  {
-    "thumbnailEmoji": "🎵🔒",
     "title": "Tuesday / Τρίτη",
     "zipUrl": "/downloads/packages/tuesday-triti.zip",
     "description": "",
@@ -86,5 +75,16 @@
     "stepCount": 10,
     "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/saturday-savvato.practice",
     "thumbnailEmoji": "🎵,🎻🔒"
+  },
+  {
+    "id": "thursday-pempti",
+    "title": "Thursday / Πέμπτη",
+    "description": "",
+    "tags": [
+      "Cleio"
+    ],
+    "stepCount": 10,
+    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/thursday-pempti.practice",
+    "thumbnailEmoji": "🎵🎻🔒"
   }
 ]
