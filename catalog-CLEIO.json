@@ -1,17 +1,6 @@
 [
   {
     "thumbnailEmoji": "🎵🔒",
-    "title": "Monday / Δευτέρα",
-    "zipUrl": "/downloads/packages/monday-deytera.zip",
-    "description": "",
-    "tags": [
-      "Cleio"
-    ],
-    "stepCount": 8,
-    "id": "monday-deytera"
-  },
-  {
-    "thumbnailEmoji": "🎵🔒",
     "title": "Tuesday / Τρίτη",
     "zipUrl": "/downloads/packages/tuesday-triti.zip",
     "description": "",
@@ -85,6 +74,17 @@
     ],
     "stepCount": 10,
     "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/thursday-pempti.practice",
+    "thumbnailEmoji": "🎵🎻🔒"
+  },
+  {
+    "id": "monday-deytera",
+    "title": "Monday / Δευτέρα",
+    "description": "",
+    "tags": [
+      "Cleio"
+    ],
+    "stepCount": 9,
+    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/monday-deytera.practice",
     "thumbnailEmoji": "🎵🎻🔒"
   }
 ]
