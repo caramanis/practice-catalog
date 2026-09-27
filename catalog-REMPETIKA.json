@@ -9,17 +9,6 @@
     "thumbnailEmoji": "🎵🔒"
   },
   {
-    "stepCount": 7,
-    "title": "Πάρε εσύ - Νυχτερίδα - Δουλειά",
-    "description": "Πάρε εσύ το δρόμο σου, Νυχτερίδα, Η δουλειά κάνει τους άνδρες",
-    "tags": [
-      "rempetika"
-    ],
-    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/pare-esy-nychterida-doyleia.zip",
-    "id": "pare-esy-nychterida-doyleia",
-    "thumbnailEmoji": "🎵🔒"
-  },
-  {
     "stepCount": 4,
     "title": "Παραμύθι, Μιλώ για Σένα",
     "description": "Παραμύθι με λυπημένο τέλος, Μιλώ για σένα",
@@ -48,6 +37,17 @@
     ],
     "stepCount": 8,
     "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/magisses-psichoyla-ti-simera-ta-omorfa.practice",
+    "thumbnailEmoji": "🎵🔒"
+  },
+  {
+    "id": "pare-esy-nychterida-doyleia",
+    "title": "Πάρε εσύ - Νυχτερίδα - Δουλειά",
+    "description": "",
+    "tags": [
+      "rempetika"
+    ],
+    "stepCount": 7,
+    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/pare-esy-nychterida-doyleia.practice",
     "thumbnailEmoji": "🎵🔒"
   }
 ]
