@@ -1,14 +1,5 @@
 [
   {
-    "id": "altalena",
-    "title": "Altalena",
-    "zipUrl": "/downloads/packages/altalena.zip",
-    "thumbnailEmoji": "🎵🔒",
-    "description": "",
-    "tags": [],
-    "stepCount": 4
-  },
-  {
     "id": "valentina-akrogialies-marazi-liga-psichoyla",
     "title": "Βαλεντίνα Ακρογιαλιές Μαράζι Λίγα ψίχουλα",
     "zipUrl": "/downloads/packages/valentina-akrogialies-marazi-liga-psichoyla.zip",
@@ -37,6 +28,17 @@
     ],
     "stepCount": 5,
     "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/ayo-sinfonietta-sept-2026.practice",
+    "thumbnailEmoji": "🎵🎻🔒"
+  },
+  {
+    "id": "altalena",
+    "title": "Altalena",
+    "description": "",
+    "tags": [
+      "Nefeli"
+    ],
+    "stepCount": 1,
+    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/altalena.practice",
     "thumbnailEmoji": "🎵🎻🔒"
   }
 ]
