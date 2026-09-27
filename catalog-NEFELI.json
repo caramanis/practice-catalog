@@ -11,15 +11,6 @@
     "stepCount": 5
   },
   {
-    "id": "gkarsona",
-    "title": "Γκαρσόνα",
-    "zipUrl": "/downloads/packages/gkarsona.zip",
-    "thumbnailEmoji": "🎵",
-    "description": "Η πιο καλή γκαρσόνα!",
-    "tags": [],
-    "stepCount": 3
-  },
-  {
     "id": "ayo-sinfonietta-sept-2026",
     "title": "AYO Sinfonietta — Sept 2026",
     "description": "",
@@ -40,5 +31,14 @@
     "stepCount": 1,
     "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/altalena.practice",
     "thumbnailEmoji": "🎵🎻🔒"
+  },
+  {
+    "id": "gkarsona",
+    "title": "Γκαρσόνα",
+    "description": "Η πιο καλή γκαρσόνα!",
+    "tags": [],
+    "stepCount": 3,
+    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/gkarsona.practice",
+    "thumbnailEmoji": "🎵"
   }
 ]
