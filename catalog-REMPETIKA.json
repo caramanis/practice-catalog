@@ -9,17 +9,6 @@
     "thumbnailEmoji": "🎵🔒"
   },
   {
-    "stepCount": 8,
-    "title": "Μάγισσες - Ψίχουλα - Τι Σήμερα - Τα Όμορφα",
-    "description": "Μάγισσες φέρτε βότανα, Λίγα ψίχουλα αγάπης, Τι σήμερα τι αύριο",
-    "tags": [
-      "rempetika"
-    ],
-    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/magisses-psichoyla-ti-simera-ta-omorfa.zip",
-    "id": "magisses-psichoyla-ti-simera-ta-omorfa",
-    "thumbnailEmoji": "🎵🔒"
-  },
-  {
     "stepCount": 7,
     "title": "Πάρε εσύ - Νυχτερίδα - Δουλειά",
     "description": "Πάρε εσύ το δρόμο σου, Νυχτερίδα, Η δουλειά κάνει τους άνδρες",
@@ -48,6 +37,17 @@
     ],
     "stepCount": 6,
     "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/wayne-iraklis-1.practice",
+    "thumbnailEmoji": "🎵🔒"
+  },
+  {
+    "id": "magisses-psichoyla-ti-simera-ta-omorfa",
+    "title": "Μάγισσες - Ψίχουλα - Τι Σήμερα - Τα Όμορφα",
+    "description": "",
+    "tags": [
+      "rempetika"
+    ],
+    "stepCount": 8,
+    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/magisses-psichoyla-ti-simera-ta-omorfa.practice",
     "thumbnailEmoji": "🎵🔒"
   }
 ]
