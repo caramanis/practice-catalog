@@ -40,5 +40,16 @@
     "stepCount": 3,
     "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/gkarsona.practice",
     "thumbnailEmoji": "🎵"
+  },
+  {
+    "id": "violin-ayo-audition",
+    "title": "Violin AYO Audition",
+    "description": "",
+    "tags": [
+      "Nefeli"
+    ],
+    "stepCount": 6,
+    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/violin-ayo-audition.practice",
+    "thumbnailEmoji": "🎵🎻🔒"
   }
 ]
