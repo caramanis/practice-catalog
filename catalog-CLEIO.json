@@ -75,5 +75,14 @@
     "stepCount": 10,
     "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/tuesday-triti.practice",
     "thumbnailEmoji": "🎵🎻🔒"
+  },
+  {
+    "id": "cello-ayo-audition",
+    "title": "Cello AYO Audition",
+    "description": "",
+    "tags": [],
+    "stepCount": 6,
+    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/cello-ayo-audition.practice",
+    "thumbnailEmoji": "🎵🎻🔒"
   }
 ]
