@@ -38,5 +38,16 @@
     "stepCount": 5,
     "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/ayo-sinfonietta-sept-2026.practice",
     "thumbnailEmoji": "🎵🎻🔒"
+  },
+  {
+    "id": "alta-lena",
+    "title": "Alta Lena",
+    "description": "",
+    "tags": [
+      "Nefeli"
+    ],
+    "stepCount": 1,
+    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/alta-lena.practice",
+    "thumbnailEmoji": "🎵🎻🔒"
   }
 ]
