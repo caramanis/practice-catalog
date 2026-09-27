@@ -1,17 +1,6 @@
 [
   {
     "thumbnailEmoji": "🎵🔒",
-    "title": "Friday / Παρασκευή",
-    "zipUrl": "/downloads/packages/friday-paraskeyi.zip",
-    "description": "",
-    "tags": [
-      "Cleio"
-    ],
-    "stepCount": 8,
-    "id": "friday-paraskeyi"
-  },
-  {
-    "thumbnailEmoji": "🎵🔒",
     "title": "Monday / Δευτέρα",
     "zipUrl": "/downloads/packages/monday-deytera.zip",
     "description": "",
@@ -85,6 +74,17 @@
     ],
     "stepCount": 10,
     "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/alternate-enallaktiki.practice",
+    "thumbnailEmoji": "🎵,🎻🔒"
+  },
+  {
+    "id": "friday-paraskeyi",
+    "title": "Friday / Παρασκευή",
+    "description": "",
+    "tags": [
+      "Cleio"
+    ],
+    "stepCount": 10,
+    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/friday-paraskeyi.practice",
     "thumbnailEmoji": "🎵,🎻🔒"
   }
 ]
