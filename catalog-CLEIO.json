@@ -1,17 +1,6 @@
 [
   {
     "thumbnailEmoji": "🎵🔒",
-    "title": "Alternate / Εναλλακτική",
-    "zipUrl": "/downloads/packages/alternate-enallaktiki.zip",
-    "description": "",
-    "tags": [
-      "Cleio"
-    ],
-    "stepCount": 8,
-    "id": "alternate-enallaktiki"
-  },
-  {
-    "thumbnailEmoji": "🎵🔒",
     "title": "Friday / Παρασκευή",
     "zipUrl": "/downloads/packages/friday-paraskeyi.zip",
     "description": "",
@@ -85,6 +74,17 @@
     ],
     "stepCount": 11,
     "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/ayo-canzonetta-sept-2026.practice",
+    "thumbnailEmoji": "🎵,🎻🔒"
+  },
+  {
+    "id": "alternate-enallaktiki",
+    "title": "Alternate / Εναλλακτική",
+    "description": "",
+    "tags": [
+      "Cleio"
+    ],
+    "stepCount": 10,
+    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/alternate-enallaktiki.practice",
     "thumbnailEmoji": "🎵,🎻🔒"
   }
 ]
