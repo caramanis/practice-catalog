@@ -66,17 +66,6 @@
     "id": "tuesday-triti"
   },
   {
-    "thumbnailEmoji": "🎵🎻🔒",
-    "title": "AYO Canzonetta — Sept 2026",
-    "zipUrl": "/downloads/packages/ayo-canzonetta-sept-2026.zip",
-    "description": "Songs for Canzonetta, Fall 2026: Wildfire, Fall River Road, Highlander's Pride and The Old Boatman",
-    "tags": [
-      "Cleio"
-    ],
-    "stepCount": 11,
-    "id": "ayo-canzonetta-sept-2026"
-  },
-  {
     "id": "tuesday-triti-sep-8",
     "title": "Tuesday / Τρίτη — Sep 8",
     "description": "",
@@ -85,6 +74,17 @@
     ],
     "stepCount": 10,
     "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/tuesday-triti-sep-8.practice",
+    "thumbnailEmoji": "🎵,🎻🔒"
+  },
+  {
+    "id": "ayo-canzonetta-sept-2026",
+    "title": "AYO Canzonetta — Sept 2026",
+    "description": "",
+    "tags": [
+      "Cleio"
+    ],
+    "stepCount": 11,
+    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/ayo-canzonetta-sept-2026.practice",
     "thumbnailEmoji": "🎵,🎻🔒"
   }
 ]
