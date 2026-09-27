@@ -1,14 +1,5 @@
 [
   {
-    "stepCount": 4,
-    "title": "Παραμύθι, Μιλώ για Σένα",
-    "description": "Παραμύθι με λυπημένο τέλος, Μιλώ για σένα",
-    "tags": [],
-    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/paramythi-milo-gia-sena.zip",
-    "id": "paramythi-milo-gia-sena",
-    "thumbnailEmoji": "🎵🔒"
-  },
-  {
     "id": "wayne-iraklis-1",
     "title": "Wayne-Ηρακλής 1",
     "description": "",
@@ -50,6 +41,15 @@
     ],
     "stepCount": 6,
     "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/akrogialies-argosvineis.practice",
+    "thumbnailEmoji": "🎵🔒"
+  },
+  {
+    "id": "paramythi-milo-gia-sena",
+    "title": "Παραμύθι, Μιλώ για Σένα",
+    "description": "",
+    "tags": [],
+    "stepCount": 4,
+    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/paramythi-milo-gia-sena.practice",
     "thumbnailEmoji": "🎵🔒"
   }
 ]
