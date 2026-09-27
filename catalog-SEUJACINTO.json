@@ -1,57 +1,57 @@
 [
   {
-    "title" : "Seu Jacinto Intros - A",
-    "thumbnailEmoji" : "🎵🪗🇧🇷🔒",
-    "id" : "seu-jacinto-intros-a",
-    "description" : "Severina Xique Xique, Coracao Bandido, Fua na Casa de Cabral, Maria do Anga, Forro do Bole Bole",
-    "tags" : [
+    "title": "Frank Foxxote Songs",
+    "thumbnailEmoji": "🎵🪗🎸🪘🦊🔒",
+    "id": "frank-foxxote-songs",
+    "description": "",
+    "tags": [
+      "Foxxote"
+    ],
+    "stepCount": 11,
+    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/frank-foxxote-songs.practice"
+  },
+  {
+    "title": "Foxxote Songs",
+    "thumbnailEmoji": "🎵🪗🎸🪘🦊🔒",
+    "id": "foxxote-songs",
+    "description": "These are the songs we played 2 years ago",
+    "tags": [
+      "Foxxote"
+    ],
+    "stepCount": 14,
+    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/foxxote-songs.practice"
+  },
+  {
+    "title": "Foxxote Sahara Sept 25 2026",
+    "thumbnailEmoji": "🎵🔒",
+    "id": "foxxote-sahara-sept-25-2026",
+    "description": "",
+    "tags": [
+      "Foxxote"
+    ],
+    "stepCount": 28,
+    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/foxxote-sahara-sept-25-2026.practice"
+  },
+  {
+    "title": "CM 9-05-26",
+    "thumbnailEmoji": "🎵🔒",
+    "id": "cm-9-05-26",
+    "description": "",
+    "tags": [
       "seu jacinto"
     ],
-    "stepCount" : 5,
-    "zipUrl" : "/downloads/packages/seu-jacinto-intros-a.zip"
+    "stepCount": 26,
+    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/cm-9-05-26.practice"
   },
   {
-    "title" : "Frank Foxxote Songs",
-    "thumbnailEmoji" : "🎵🪗🎸🪘🦊🔒",
-    "id" : "frank-foxxote-songs",
-    "description" : "",
-    "tags" : [
-      "Foxxote"
-    ],
-    "stepCount" : 11,
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/frank-foxxote-songs.practice"
-  },
-  {
-    "title" : "Foxxote Songs",
-    "thumbnailEmoji" : "🎵🪗🎸🪘🦊🔒",
-    "id" : "foxxote-songs",
-    "description" : "These are the songs we played 2 years ago",
-    "tags" : [
-      "Foxxote"
-    ],
-    "stepCount" : 14,
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/foxxote-songs.practice"
-  },
-  {
-    "title" : "Foxxote Sahara Sept 25 2026",
-    "thumbnailEmoji" : "🎵🔒",
-    "id" : "foxxote-sahara-sept-25-2026",
-    "description" : "",
-    "tags" : [
-      "Foxxote"
-    ],
-    "stepCount" : 28,
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/foxxote-sahara-sept-25-2026.practice"
-  },
-  {
-    "title" : "CM 9-05-26",
-    "thumbnailEmoji" : "🎵🔒",
-    "id" : "cm-9-05-26",
-    "description" : "",
-    "tags" : [
+    "id": "seu-jacinto-intros-a",
+    "title": "Seu Jacinto Intros - A",
+    "description": "",
+    "tags": [
       "seu jacinto"
     ],
-    "stepCount" : 26,
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/cm-9-05-26.practice"
+    "stepCount": 5,
+    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/seu-jacinto-intros-a.practice",
+    "thumbnailEmoji": "🎵🔒"
   }
 ]
