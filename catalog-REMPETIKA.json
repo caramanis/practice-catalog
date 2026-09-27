@@ -1,15 +1,6 @@
 [
   {
     "stepCount": 4,
-    "title": "Ακρογιαλιές - Αργοσβήνεις",
-    "description": "Ακρογιαλιές Δειλινά, Αργοσβήνεις Μόνη",
-    "tags": [],
-    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/akrogialies-argosvineis.zip",
-    "id": "akrogialies-argosvineis",
-    "thumbnailEmoji": "🎵🔒"
-  },
-  {
-    "stepCount": 4,
     "title": "Παραμύθι, Μιλώ για Σένα",
     "description": "Παραμύθι με λυπημένο τέλος, Μιλώ για σένα",
     "tags": [],
@@ -48,6 +39,17 @@
     ],
     "stepCount": 7,
     "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/pare-esy-nychterida-doyleia.practice",
+    "thumbnailEmoji": "🎵🔒"
+  },
+  {
+    "id": "akrogialies-argosvineis",
+    "title": "Ακρογιαλιές - Αργοσβήνεις",
+    "description": "",
+    "tags": [
+      "rempetika"
+    ],
+    "stepCount": 6,
+    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/akrogialies-argosvineis.practice",
     "thumbnailEmoji": "🎵🔒"
   }
 ]
