@@ -45,16 +45,5 @@
     "tags": [],
     "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/zeimbekiko-zeimpekiko-pub.practice",
     "id": "zeimbekiko-zeimpekiko-pub"
-  },
-  {
-    "id": "ayo-canzonetta-sept-2026",
-    "title": "AYO Canzonetta — Sept 2026",
-    "description": "Cleio",
-    "tags": [
-      "Cleio"
-    ],
-    "stepCount": 11,
-    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/ayo-canzonetta-sept-2026.practice",
-    "thumbnailEmoji": "🎵,🎻🔒"
   }
 ]
