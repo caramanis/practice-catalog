@@ -1,44 +1,57 @@
 [
   {
-    "id": "ayo-sinfonietta-sept-2026",
-    "title": "AYO Sinfonietta — Sept 2026",
-    "description": "",
-    "tags": [
+    "stepCount" : 5,
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/ayo-sinfonietta-sept-2026.practice",
+    "tags" : [
       "Nefeli"
     ],
-    "stepCount": 5,
-    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/ayo-sinfonietta-sept-2026.practice",
-    "thumbnailEmoji": "🎵🎻🔒"
+    "thumbnailEmoji" : "🎵🎻🔒",
+    "title" : "AYO Sinfonietta — Sept 2026",
+    "id" : "ayo-sinfonietta-sept-2026",
+    "description" : ""
   },
   {
-    "id": "altalena",
-    "title": "Altalena",
-    "description": "",
-    "tags": [
+    "stepCount" : 1,
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/altalena.practice",
+    "tags" : [
       "Nefeli"
     ],
-    "stepCount": 1,
-    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/altalena.practice",
-    "thumbnailEmoji": "🎵🎻🔒"
+    "thumbnailEmoji" : "🎵🎻🔒",
+    "title" : "Altalena",
+    "id" : "altalena",
+    "description" : ""
   },
   {
-    "id": "gkarsona",
-    "title": "Γκαρσόνα",
-    "description": "Η πιο καλή γκαρσόνα!",
-    "tags": [],
-    "stepCount": 3,
-    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/gkarsona.practice",
-    "thumbnailEmoji": "🎵"
+    "stepCount" : 3,
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/gkarsona.practice",
+    "tags" : [
+
+    ],
+    "thumbnailEmoji" : "🎵",
+    "title" : "Γκαρσόνα",
+    "id" : "gkarsona",
+    "description" : "Η πιο καλή γκαρσόνα!"
   },
   {
-    "id": "violin-ayo-audition",
-    "title": "Violin AYO Audition",
-    "description": "",
-    "tags": [
+    "stepCount" : 6,
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/violin-ayo-audition.practice",
+    "tags" : [
       "Nefeli"
     ],
-    "stepCount": 6,
-    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/violin-ayo-audition.practice",
-    "thumbnailEmoji": "🎵🎻🔒"
+    "thumbnailEmoji" : "🎵🎻🔒",
+    "title" : "Violin AYO Audition",
+    "id" : "violin-ayo-audition",
+    "description" : ""
+  },
+  {
+    "stepCount" : 5,
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/valentina-akrogialies-marazi-liga-psichoyla.practice",
+    "tags" : [
+      "Nefeli"
+    ],
+    "thumbnailEmoji" : "🎵🔒",
+    "title" : "Βαλεντίνα Ακρογιαλιές Μαράζι Λίγα ψίχουλα",
+    "id" : "valentina-akrogialies-marazi-liga-psichoyla",
+    "description" : ""
   }
 ]
