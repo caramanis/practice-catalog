@@ -1,46 +1,57 @@
 [
   {
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/tuesday-triti-sep-8.practice",
+    "thumbnailEmoji" : "🎵🔒",
     "description" : "",
     "stepCount" : 9,
-    "thumbnailEmoji" : "🎵🔒",
+    "id" : "tuesday-triti-sep-8",
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/tuesday-triti-sep-8.practice",
     "tags" : [
       "Cleio"
     ],
-    "id" : "tuesday-triti-sep-8",
     "title" : "Tuesday / Τρίτη — Sep 8"
   },
   {
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/frank-foxxote-songs.practice",
+    "thumbnailEmoji" : "🎵🔒",
     "description" : "",
     "stepCount" : 11,
-    "thumbnailEmoji" : "🎵🔒",
+    "id" : "frank-foxxote-songs",
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/frank-foxxote-songs.practice",
     "tags" : [
       "Foxxote"
     ],
-    "id" : "frank-foxxote-songs",
     "title" : "Frank Foxxote Songs"
   },
   {
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/friday-practice.practice",
+    "thumbnailEmoji" : "🎵🔒",
     "description" : "",
     "stepCount" : 8,
-    "thumbnailEmoji" : "🎵🔒",
+    "id" : "friday-practice",
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/friday-practice.practice",
     "tags" : [
       "Cleio"
     ],
-    "id" : "friday-practice",
     "title" : "Friday practice"
   },
   {
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/12-etudes-theodore-lack.practice",
+    "thumbnailEmoji" : "🎵",
     "description" : "",
     "stepCount" : 1,
-    "thumbnailEmoji" : "🎵",
+    "id" : "12-etudes-theodore-lack",
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/12-etudes-theodore-lack.practice",
     "tags" : [
 
     ],
-    "id" : "12-etudes-theodore-lack",
     "title" : "12 Etudes (Theodore Lack)"
+  },
+  {
+    "thumbnailEmoji" : "🎵🔒",
+    "description" : "",
+    "stepCount" : 5,
+    "id" : "midi-test",
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/midi-test.practice",
+    "tags" : [
+
+    ],
+    "title" : "midi test"
   }
 ]
