@@ -1,57 +1,46 @@
 [
   {
-    "id" : "tuesday-triti-sep-8",
-    "stepCount" : 9,
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/tuesday-triti-sep-8.practice",
     "description" : "",
     "title" : "Tuesday / Τρίτη — Sep 8",
     "thumbnailEmoji" : "🎵🔒",
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/tuesday-triti-sep-8.practice",
+    "stepCount" : 9,
     "tags" : [
       "Cleio"
-    ]
+    ],
+    "id" : "tuesday-triti-sep-8"
   },
   {
-    "id" : "frank-foxxote-songs",
-    "stepCount" : 11,
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/frank-foxxote-songs.practice",
     "description" : "",
     "title" : "Frank Foxxote Songs",
     "thumbnailEmoji" : "🎵🔒",
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/frank-foxxote-songs.practice",
+    "stepCount" : 11,
     "tags" : [
       "Foxxote"
-    ]
+    ],
+    "id" : "frank-foxxote-songs"
   },
   {
-    "id" : "friday-practice",
-    "stepCount" : 8,
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/friday-practice.practice",
     "description" : "",
     "title" : "Friday practice",
     "thumbnailEmoji" : "🎵🔒",
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/friday-practice.practice",
+    "stepCount" : 8,
     "tags" : [
       "Cleio"
-    ]
+    ],
+    "id" : "friday-practice"
   },
   {
-    "id" : "12-etudes-theodore-lack",
-    "stepCount" : 1,
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/12-etudes-theodore-lack.practice",
     "description" : "",
     "title" : "12 Etudes (Theodore Lack)",
     "thumbnailEmoji" : "🎵",
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/12-etudes-theodore-lack.practice",
+    "stepCount" : 1,
     "tags" : [
 
-    ]
-  },
-  {
-    "id" : "midi-test-test",
-    "stepCount" : 5,
-    "description" : "",
-    "title" : "midi test test",
-    "thumbnailEmoji" : "🎵🔒",
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/midi-test-test.practice",
-    "tags" : [
-
-    ]
+    ],
+    "id" : "12-etudes-theodore-lack"
   }
 ]
