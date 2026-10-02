@@ -1,55 +1,68 @@
 [
   {
-    "id": "magisses-psichoyla-ti-simera-ta-omorfa",
-    "title": "Μάγισσες - Ψίχουλα - Τι Σήμερα - Τα Όμορφα",
-    "description": "",
-    "tags": [
+    "id" : "magisses-psichoyla-ti-simera-ta-omorfa",
+    "title" : "Μάγισσες - Ψίχουλα - Τι Σήμερα - Τα Όμορφα",
+    "tags" : [
       "rempetika"
     ],
-    "stepCount": 8,
-    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/magisses-psichoyla-ti-simera-ta-omorfa.practice",
-    "thumbnailEmoji": "🎵🔒"
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/magisses-psichoyla-ti-simera-ta-omorfa.practice",
+    "description" : "",
+    "thumbnailEmoji" : "🎵🔒",
+    "stepCount" : 8
   },
   {
-    "id": "pare-esy-nychterida-doyleia",
-    "title": "Πάρε εσύ - Νυχτερίδα - Δουλειά",
-    "description": "",
-    "tags": [
+    "id" : "pare-esy-nychterida-doyleia",
+    "title" : "Πάρε εσύ - Νυχτερίδα - Δουλειά",
+    "tags" : [
       "rempetika"
     ],
-    "stepCount": 7,
-    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/pare-esy-nychterida-doyleia.practice",
-    "thumbnailEmoji": "🎵🔒"
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/pare-esy-nychterida-doyleia.practice",
+    "description" : "",
+    "thumbnailEmoji" : "🎵🔒",
+    "stepCount" : 7
   },
   {
-    "id": "akrogialies-argosvineis",
-    "title": "Ακρογιαλιές - Αργοσβήνεις",
-    "description": "",
-    "tags": [
+    "id" : "akrogialies-argosvineis",
+    "title" : "Ακρογιαλιές - Αργοσβήνεις",
+    "tags" : [
       "rempetika"
     ],
-    "stepCount": 6,
-    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/akrogialies-argosvineis.practice",
-    "thumbnailEmoji": "🎵🔒"
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/akrogialies-argosvineis.practice",
+    "description" : "",
+    "thumbnailEmoji" : "🎵🔒",
+    "stepCount" : 6
   },
   {
-    "id": "paramythi-milo-gia-sena",
-    "title": "Παραμύθι, Μιλώ για Σένα",
-    "description": "",
-    "tags": [],
-    "stepCount": 4,
-    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/paramythi-milo-gia-sena.practice",
-    "thumbnailEmoji": "🎵🔒"
+    "id" : "paramythi-milo-gia-sena",
+    "title" : "Παραμύθι, Μιλώ για Σένα",
+    "tags" : [
+
+    ],
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/paramythi-milo-gia-sena.practice",
+    "description" : "",
+    "thumbnailEmoji" : "🎵🔒",
+    "stepCount" : 4
   },
   {
-    "id": "wayne-iraklis-1",
-    "title": "Wayne-Ηρακλής 1",
-    "description": "",
-    "tags": [
+    "id" : "wayne-iraklis-1",
+    "title" : "Wayne-Ηρακλής 1",
+    "tags" : [
       "rempetika"
     ],
-    "stepCount": 6,
-    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/wayne-iraklis-1.practice",
-    "thumbnailEmoji": "🎵🔒"
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/wayne-iraklis-1.practice",
+    "description" : "",
+    "thumbnailEmoji" : "🎵🔒",
+    "stepCount" : 6
+  },
+  {
+    "id" : "valentina-akrogialies-marazi-liga-psichoyla",
+    "title" : "Βαλεντίνα Ακρογιαλιές Μαράζι Λίγα ψίχουλα",
+    "tags" : [
+      "Nefeli"
+    ],
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/valentina-akrogialies-marazi-liga-psichoyla.practice",
+    "description" : "",
+    "thumbnailEmoji" : "🎵🔒",
+    "stepCount" : 5
   }
 ]
