@@ -2,8 +2,8 @@
   {
     "thumbnailEmoji" : "🎵🔒",
     "description" : "",
-    "stepCount" : 9,
     "id" : "tuesday-triti-sep-8",
+    "stepCount" : 9,
     "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/tuesday-triti-sep-8.practice",
     "tags" : [
       "Cleio"
@@ -13,8 +13,8 @@
   {
     "thumbnailEmoji" : "🎵🔒",
     "description" : "",
-    "stepCount" : 11,
     "id" : "frank-foxxote-songs",
+    "stepCount" : 11,
     "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/frank-foxxote-songs.practice",
     "tags" : [
       "Foxxote"
@@ -24,8 +24,8 @@
   {
     "thumbnailEmoji" : "🎵🔒",
     "description" : "",
-    "stepCount" : 8,
     "id" : "friday-practice",
+    "stepCount" : 8,
     "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/friday-practice.practice",
     "tags" : [
       "Cleio"
@@ -35,8 +35,8 @@
   {
     "thumbnailEmoji" : "🎵",
     "description" : "",
-    "stepCount" : 1,
     "id" : "12-etudes-theodore-lack",
+    "stepCount" : 1,
     "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/12-etudes-theodore-lack.practice",
     "tags" : [
 
@@ -46,8 +46,8 @@
   {
     "thumbnailEmoji" : "🎵🔒",
     "description" : "",
-    "stepCount" : 5,
     "id" : "midi-test",
+    "stepCount" : 5,
     "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/midi-test.practice",
     "tags" : [
 
