@@ -1,57 +1,46 @@
 [
   {
-    "thumbnailEmoji" : "🎵🔒",
-    "description" : "",
-    "id" : "tuesday-triti-sep-8",
-    "stepCount" : 9,
     "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/tuesday-triti-sep-8.practice",
+    "id" : "tuesday-triti-sep-8",
+    "title" : "Tuesday / Τρίτη — Sep 8",
+    "stepCount" : 9,
+    "thumbnailEmoji" : "🎵🔒",
     "tags" : [
       "Cleio"
     ],
-    "title" : "Tuesday / Τρίτη — Sep 8"
+    "description" : ""
   },
   {
-    "thumbnailEmoji" : "🎵🔒",
-    "description" : "",
-    "id" : "frank-foxxote-songs",
-    "stepCount" : 11,
     "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/frank-foxxote-songs.practice",
+    "id" : "frank-foxxote-songs",
+    "title" : "Frank Foxxote Songs",
+    "stepCount" : 11,
+    "thumbnailEmoji" : "🎵🔒",
     "tags" : [
       "Foxxote"
     ],
-    "title" : "Frank Foxxote Songs"
+    "description" : ""
   },
   {
-    "thumbnailEmoji" : "🎵🔒",
-    "description" : "",
-    "id" : "friday-practice",
-    "stepCount" : 8,
     "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/friday-practice.practice",
+    "id" : "friday-practice",
+    "title" : "Friday practice",
+    "stepCount" : 8,
+    "thumbnailEmoji" : "🎵🔒",
     "tags" : [
       "Cleio"
     ],
-    "title" : "Friday practice"
+    "description" : ""
   },
   {
-    "thumbnailEmoji" : "🎵",
-    "description" : "",
-    "id" : "12-etudes-theodore-lack",
-    "stepCount" : 1,
     "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/12-etudes-theodore-lack.practice",
+    "id" : "12-etudes-theodore-lack",
+    "title" : "12 Etudes (Theodore Lack)",
+    "stepCount" : 1,
+    "thumbnailEmoji" : "🎵",
     "tags" : [
 
     ],
-    "title" : "12 Etudes (Theodore Lack)"
-  },
-  {
-    "thumbnailEmoji" : "🎵🔒",
-    "description" : "",
-    "id" : "midi-test",
-    "stepCount" : 5,
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/midi-test.practice",
-    "tags" : [
-
-    ],
-    "title" : "midi test"
+    "description" : ""
   }
 ]
