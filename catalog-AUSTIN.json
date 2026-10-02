@@ -1,53 +1,46 @@
 [
   {
-    "id": "tuesday-triti-sep-8",
-    "thumbnailEmoji": "🎵🔒",
-    "title": "Tuesday / Τρίτη — Sep 8",
-    "tags": [
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/tuesday-triti-sep-8.practice",
+    "description" : "",
+    "stepCount" : 9,
+    "thumbnailEmoji" : "🎵🔒",
+    "tags" : [
       "Cleio"
     ],
-    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/tuesday-triti-sep-8.practice",
-    "description": "",
-    "stepCount": 9
+    "id" : "tuesday-triti-sep-8",
+    "title" : "Tuesday / Τρίτη — Sep 8"
   },
   {
-    "id": "frank-foxxote-songs",
-    "thumbnailEmoji": "🎵🔒",
-    "title": "Frank Foxxote Songs",
-    "tags": [
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/frank-foxxote-songs.practice",
+    "description" : "",
+    "stepCount" : 11,
+    "thumbnailEmoji" : "🎵🔒",
+    "tags" : [
       "Foxxote"
     ],
-    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/frank-foxxote-songs.practice",
-    "description": "",
-    "stepCount": 11
+    "id" : "frank-foxxote-songs",
+    "title" : "Frank Foxxote Songs"
   },
   {
-    "id": "friday-practice",
-    "thumbnailEmoji": "🎵🔒",
-    "title": "Friday practice",
-    "tags": [
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/friday-practice.practice",
+    "description" : "",
+    "stepCount" : 8,
+    "thumbnailEmoji" : "🎵🔒",
+    "tags" : [
       "Cleio"
     ],
-    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/friday-practice.practice",
-    "description": "",
-    "stepCount": 8
+    "id" : "friday-practice",
+    "title" : "Friday practice"
   },
   {
-    "id": "midi-test",
-    "thumbnailEmoji": "🎵",
-    "title": "midi test",
-    "tags": [],
-    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/midi-test.practice",
-    "description": "",
-    "stepCount": 4
-  },
-  {
-    "id": "12-etudes-theodore-lack",
-    "thumbnailEmoji": "🎵",
-    "title": "12 Etudes (Theodore Lack)",
-    "tags": [],
-    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/12-etudes-theodore-lack.practice",
-    "description": "",
-    "stepCount": 1
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/12-etudes-theodore-lack.practice",
+    "description" : "",
+    "stepCount" : 1,
+    "thumbnailEmoji" : "🎵",
+    "tags" : [
+
+    ],
+    "id" : "12-etudes-theodore-lack",
+    "title" : "12 Etudes (Theodore Lack)"
   }
 ]
