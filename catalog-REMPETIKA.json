@@ -1,16 +1,5 @@
 [
   {
-    "id": "wayne-iraklis-1",
-    "title": "Wayne-Ηρακλής 1",
-    "description": "",
-    "tags": [
-      "rempetika"
-    ],
-    "stepCount": 6,
-    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/wayne-iraklis-1.practice",
-    "thumbnailEmoji": "🎵🔒"
-  },
-  {
     "id": "magisses-psichoyla-ti-simera-ta-omorfa",
     "title": "Μάγισσες - Ψίχουλα - Τι Σήμερα - Τα Όμορφα",
     "description": "",
@@ -50,6 +39,17 @@
     "tags": [],
     "stepCount": 4,
     "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/paramythi-milo-gia-sena.practice",
+    "thumbnailEmoji": "🎵🔒"
+  },
+  {
+    "id": "wayne-iraklis-1",
+    "title": "Wayne-Ηρακλής 1",
+    "description": "",
+    "tags": [
+      "rempetika"
+    ],
+    "stepCount": 6,
+    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/wayne-iraklis-1.practice",
     "thumbnailEmoji": "🎵🔒"
   }
 ]
