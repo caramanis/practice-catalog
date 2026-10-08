@@ -40,5 +40,14 @@
     "stepCount": 5,
     "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/AYO-Sinfonietta-Sept-2026-package.practice",
     "thumbnailEmoji": "🔒"
+  },
+  {
+    "id": "2codetest",
+    "title": "2codetest",
+    "description": "",
+    "tags": [],
+    "stepCount": 1,
+    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/2codetest-package.practice",
+    "thumbnailEmoji": "🔒"
   }
 ]
