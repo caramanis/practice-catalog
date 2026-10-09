@@ -58,5 +58,14 @@
     "stepCount": 1,
     "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/androidcodetest.practice",
     "thumbnailEmoji": "🔒"
+  },
+  {
+    "id": "patinada-syrtos-toy-koymparoy-in-dm",
+    "title": "Πατινάδα (συρτός του κουμπάρου) in Dm",
+    "description": "",
+    "tags": [],
+    "stepCount": 3,
+    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/patinada-syrtos-toy-koymparoy-in-dm.practice",
+    "thumbnailEmoji": "🎵🔒"
   }
 ]
