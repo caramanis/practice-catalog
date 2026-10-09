@@ -1,71 +1,79 @@
 [
   {
-    "id": "tuesday-triti-sep-8",
-    "title": "Tuesday / Τρίτη — Sep 8",
-    "description": "",
-    "tags": [
+    "id" : "tuesday-triti-sep-8",
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/tuesday-triti-sep-8.practice",
+    "thumbnailEmoji" : "🎵🔒",
+    "stepCount" : 9,
+    "description" : "",
+    "tags" : [
       "Cleio"
     ],
-    "stepCount": 9,
-    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/tuesday-triti-sep-8.practice",
-    "thumbnailEmoji": "🎵🔒"
+    "title" : "Tuesday / Τρίτη — Sep 8"
   },
   {
-    "id": "frank-foxxote-songs",
-    "title": "Frank Foxxote Songs",
-    "description": "",
-    "tags": [
+    "id" : "frank-foxxote-songs",
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/frank-foxxote-songs.practice",
+    "thumbnailEmoji" : "🎵🔒",
+    "stepCount" : 11,
+    "description" : "",
+    "tags" : [
       "Foxxote"
     ],
-    "stepCount": 11,
-    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/frank-foxxote-songs.practice",
-    "thumbnailEmoji": "🎵🔒"
+    "title" : "Frank Foxxote Songs"
   },
   {
-    "id": "friday-practice",
-    "title": "Friday practice",
-    "description": "",
-    "tags": [
+    "id" : "friday-practice",
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/friday-practice.practice",
+    "thumbnailEmoji" : "🎵🔒",
+    "stepCount" : 8,
+    "description" : "",
+    "tags" : [
       "Cleio"
     ],
-    "stepCount": 8,
-    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/friday-practice.practice",
-    "thumbnailEmoji": "🎵🔒"
+    "title" : "Friday practice"
   },
   {
-    "id": "ayo-sinfonietta-sept-2026",
-    "title": "AYO Sinfonietta — Sept 2026",
-    "description": "rep",
-    "tags": [],
-    "stepCount": 5,
-    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/AYO-Sinfonietta-Sept-2026-package.practice",
-    "thumbnailEmoji": "🔒"
+    "id" : "ayo-sinfonietta-sept-2026",
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/AYO-Sinfonietta-Sept-2026-package.practice",
+    "thumbnailEmoji" : "🔒",
+    "stepCount" : 5,
+    "description" : "rep",
+    "tags" : [
+
+    ],
+    "title" : "AYO Sinfonietta — Sept 2026"
   },
   {
-    "id": "2codetest",
-    "title": "2codetest",
-    "description": "",
-    "tags": [],
-    "stepCount": 1,
-    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/2codetest-package.practice",
-    "thumbnailEmoji": "🔒"
+    "id" : "2codetest",
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/2codetest-package.practice",
+    "thumbnailEmoji" : "🔒",
+    "stepCount" : 1,
+    "description" : "",
+    "tags" : [
+
+    ],
+    "title" : "2codetest"
   },
   {
-    "id": "androidcodetest",
-    "title": "AndroidCodeTest",
-    "description": "",
-    "tags": [],
-    "stepCount": 1,
-    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/androidcodetest.practice",
-    "thumbnailEmoji": "🔒"
+    "id" : "androidcodetest",
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/androidcodetest.practice",
+    "thumbnailEmoji" : "🔒",
+    "stepCount" : 1,
+    "description" : "",
+    "tags" : [
+
+    ],
+    "title" : "AndroidCodeTest"
   },
   {
-    "id": "patinada-syrtos-toy-koymparoy-in-dm",
-    "title": "Πατινάδα (συρτός του κουμπάρου) in Dm",
-    "description": "",
-    "tags": [],
-    "stepCount": 3,
-    "zipUrl": "https://github.com/caramanis/practice-plans/releases/download/packages/patinada-syrtos-toy-koymparoy-in-dm.practice",
-    "thumbnailEmoji": "🎵🔒"
+    "id" : "patinada-syrtos-toy-koymparoy-in-dm",
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/patinada-syrtos-toy-koymparoy-in-dm.practice",
+    "thumbnailEmoji" : "🎵🔒",
+    "stepCount" : 3,
+    "description" : "",
+    "tags" : [
+
+    ],
+    "title" : "Πατινάδα (συρτός του κουμπάρου) in Dm"
   }
 ]
