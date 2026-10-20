@@ -1,79 +1,90 @@
 [
   {
+    "title" : "Tuesday / Τρίτη — Sep 8",
+    "stepCount" : 9,
     "id" : "tuesday-triti-sep-8",
     "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/tuesday-triti-sep-8.practice",
-    "thumbnailEmoji" : "🎵🔒",
-    "stepCount" : 9,
-    "description" : "",
     "tags" : [
       "Cleio"
     ],
-    "title" : "Tuesday / Τρίτη — Sep 8"
+    "thumbnailEmoji" : "🎵🔒",
+    "description" : ""
   },
   {
-    "id" : "frank-foxxote-songs",
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/frank-foxxote-songs.practice",
-    "thumbnailEmoji" : "🎵🔒",
-    "stepCount" : 11,
-    "description" : "",
     "tags" : [
       "Foxxote"
     ],
+    "description" : "",
+    "stepCount" : 11,
+    "id" : "frank-foxxote-songs",
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/frank-foxxote-songs.practice",
+    "thumbnailEmoji" : "🎵🔒",
     "title" : "Frank Foxxote Songs"
   },
   {
-    "id" : "friday-practice",
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/friday-practice.practice",
-    "thumbnailEmoji" : "🎵🔒",
-    "stepCount" : 8,
-    "description" : "",
     "tags" : [
       "Cleio"
     ],
+    "description" : "",
+    "stepCount" : 8,
+    "id" : "friday-practice",
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/friday-practice.practice",
+    "thumbnailEmoji" : "🎵🔒",
     "title" : "Friday practice"
   },
   {
-    "id" : "ayo-sinfonietta-sept-2026",
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/AYO-Sinfonietta-Sept-2026-package.practice",
-    "thumbnailEmoji" : "🔒",
-    "stepCount" : 5,
-    "description" : "rep",
     "tags" : [
 
     ],
+    "description" : "rep",
+    "stepCount" : 5,
+    "id" : "ayo-sinfonietta-sept-2026",
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/AYO-Sinfonietta-Sept-2026-package.practice",
+    "thumbnailEmoji" : "🔒",
     "title" : "AYO Sinfonietta — Sept 2026"
   },
   {
     "id" : "2codetest",
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/2codetest-package.practice",
     "thumbnailEmoji" : "🔒",
-    "stepCount" : 1,
-    "description" : "",
+    "title" : "2codetest",
     "tags" : [
 
     ],
-    "title" : "2codetest"
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/2codetest-package.practice",
+    "stepCount" : 1,
+    "description" : ""
   },
   {
     "id" : "androidcodetest",
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/androidcodetest.practice",
     "thumbnailEmoji" : "🔒",
-    "stepCount" : 1,
-    "description" : "",
+    "title" : "AndroidCodeTest",
     "tags" : [
 
     ],
-    "title" : "AndroidCodeTest"
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/androidcodetest.practice",
+    "stepCount" : 1,
+    "description" : ""
   },
   {
     "id" : "patinada-syrtos-toy-koymparoy-in-dm",
-    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/patinada-syrtos-toy-koymparoy-in-dm.practice",
     "thumbnailEmoji" : "🎵🔒",
-    "stepCount" : 3,
-    "description" : "",
+    "title" : "Πατινάδα (συρτός του κουμπάρου) in Dm",
     "tags" : [
 
     ],
-    "title" : "Πατινάδα (συρτός του κουμπάρου) in Dm"
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/patinada-syrtos-toy-koymparoy-in-dm.practice",
+    "stepCount" : 3,
+    "description" : ""
+  },
+  {
+    "description" : "",
+    "zipUrl" : "https://github.com/caramanis/practice-plans/releases/download/packages/rixe-ola-gia-sena-to-paichnidi.practice",
+    "thumbnailEmoji" : "🎵🔒",
+    "tags" : [
+
+    ],
+    "title" : "Ρίξε - Όλα για σένα - Το παιχνίδι",
+    "stepCount" : 5,
+    "id" : "rixe-ola-gia-sena-to-paichnidi"
   }
 ]
